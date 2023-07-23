@@ -1,0 +1,32 @@
+
+<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
+    <ul class="list">
+        {% if page.title != "Home" %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/">Home</a>
+            </li>
+        {% endif %}
+
+        <li class="item">
+            <a class="link" href="{{ site.url }}/pages/research">Research</a>
+        </li>
+            
+       
+        <li class= "item">
+            <a class ="link" href="{{ site.url }}/pages/publication">Publication</a>
+        </li>
+            
+        <li class= "item"> 
+            <a class="link" href="{{ site.url }}/pages/news">News</a>
+        </li>
+
+        <li class="item">
+            <a class="link" href="{{ site.url }}/pages/team">Team</a>
+        </li>
+
+        <li class="item">
+            <a class="link" href="{{ site.url }}/pages/opening">Opening</a>
+        </li>
+           
+    </ul>
+</nav>
