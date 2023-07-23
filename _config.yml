@@ -1,0 +1,113 @@
+# main text of home
+name: Qianqian Song
+bio: Assistant Professor <br /> Bioinformatics, Cancer Informatics <br /> Department of Health Outcomes and Biomedical Informatics <br /> College of Medicine, University of Florida
+
+# twitter summary info
+description: All about Qianqian Song.
+
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/Qianqian_Song.jpg
+
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: false
+resume-url: CV
+
+url: https://liux0614.github.io/profsong_githubpages
+# your url: https://USERNAME.github.io/repo_name
+
+permalink: pretty
+
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-87286945-5'
+
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
+
+# if you don't want comments in your posts, leave categories empty
+disqus:
+  shortname:  # enter this from your disqus account
+  categories: [] # only show disqus for posts that have these categories
+
+# if you don't have any of social below, comment the line
+# facebook: myfacebook
+twitter: Sophie_QSong
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
+linkedin: qianqian-song-4501b56b
+# youtube: myyoutube
+# spotify: myspotify
+github: QSong-github
+# gitlab: mygitlab
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+# medium: medium
+# vimeo: myvimeo
+# lanyrd: mylanyrd
+email: qianqian.song.66@gmail.com
+googlescholar: wIYviKIAAAAJ
+# orcid: 0000-0002-4662-4615
+
+
+authors:
+    Qianqian_Song:
+        name: Qianqian Song
+        bio: Assistant Professor <br /> Bioinformatics, Cancer Informatics <br /> Department of Health Outcomes and Biomedical Informatics <br /> College of Medicine, University of Florida
+        external-image: false
+        picture: assets/images/Qianqian_Song.jpg
+        twitter: Sophie_QSong
+   
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: large
+
+# if you don't need pagination, comment the *paginate* configs below
+paginate: 5
+paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+projects: false
+
+# if you don't need "about" or "blog", comment them out below
+# about: true
+blog: true
+
+# do you want to show the "read time" of the posts?
+read-time: true
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+# related posts inside a post?
+related: true
+
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
+
+# show author block at the end of a post ?
+show-author: true
+
+# do you want some animations?
+animation: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-admin
+  - jekyll-toc
+
+jekyll-mentions:
+    base_url: https://github.com
+ 
+markdown: kramdown
+
