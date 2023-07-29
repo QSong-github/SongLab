@@ -4,8 +4,8 @@ layout: page
 ---
 # Opening
 
-Multiple funded Ph.D. and Postdoc positions in bioinformatics field are available at the Department of Health Outcomes and Biomedical Informatics, 
-College of Medicine, University of Florida. Candidates will work with Dr. Song. Our research focuses on data mining, applying ML/AI models to address bioinformatics problems.
+Multiple funded PhD and Postdoc positions in Bioinformatics field are available at the Department of Health Outcomes and Biomedical Informatics, 
+College of Medicine, University of Florida. Candidates will work with Dr. Song. Our research primarily focus on data mining and the application of ML/AI models to address bioinformatics problems.
 
 Requirements for Ph.D. candidates:    
 1. Strong passion and motivation for research with a desire to solve practical bioinformatics problems
