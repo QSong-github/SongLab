@@ -4,7 +4,7 @@ layout: page
 ---
 # Opening
 
-Multiple funded Ph.D. and Postdoc positions in bioinformatics field are available at the Wake Forest University School of Medicine. Candidates will work with Dr. Song. Our research focuses on data mining, applying ML/AI models to address bioinformatics problems.
+Multiple funded Ph.D. and Postdoc positions in bioinformatics field are available at the University of Florida. Candidates will work with Dr. Song. Our research focuses on data mining, applying ML/AI models to address bioinformatics problems.
 
 Requirements for Ph.D. candidates:    
 1. Strong passion and motivation for research with a desire to solve practical bioinformatics problems.
