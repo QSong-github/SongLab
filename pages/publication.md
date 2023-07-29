@@ -158,7 +158,8 @@ Indicated Poor Prognosis and Facilitated Aggressive Phenotype of Hepatocellular 
 markers (2019); 22:8964015
 * Berger C, Korkut A, et.al, Song Q, et.al. “A comprehensive Pan-Cancer molecular study of gynecologic
 and breast cancers.” Cancer Cell (2018); 33(4):690-705.
-Conference abstracts
+
+## Conference abstracts
 * Song Q, Bates B, Hsu FC, Liu F, Madhira V, Mitra AK, Bergquist T, Li X, Sharafeldin N, Topaloglu U,
 Su J. “COVID-19 omicron variants demonstrated different virulence in infected patients with cancer: The
 real-world evidence from the National COVID Cohort Collaborative (N3C).” ASCO 2022
