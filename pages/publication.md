@@ -15,7 +15,6 @@ Disease.” Under Revision in Physics in Medicine and Biology
 * Wu C, Ning W, Wu T, Chen J, Yao H, Tao Z, Wang G, Zhao X, Diao K, Wang J, Song Q, Liu X,
 “TCfinder: robust tumor cell discrimination in scRNA-seq based on gene pathway activity.” Under
 Review in Bioinformatics
-
 * Tang Z, Zhang T, Yang B, Su J,  Song   Q*, “SiGra: Single-cell spatial elucidation through image-
 augmented graph transformer.” Nature Communications (Accepted)
 * Tang Z, Zhang T, Yang B, Su J, Song Q*, “spaCI: deciphering spatial cellular communications through
@@ -62,7 +61,6 @@ Alekseyenko A, Song Q, Uzun E, Taylor C, Alpher U, Person T, Rappoport N, Zhao Z
 “Enabling Clinical Application of Artificial Intelligence in Genomics: An Analysis of Current State and
 Future Needs - From the AMIA Genomics and Translational Bioinformatics Workgroup.” Under Revision
 in JAMIA
-
 * Bouch RJ, Zhang J, Miller BC, Robbins CJ, Mosher TH, Li W, Krupenko SA, Nagpal R, Zhao J, Lu Y,
 Nikiforov MA, Song Q*, He Z*. “Inflammatory Th17 cells in autoimmune colitis are distinguishable from
 infection-induced   Th17   cells   through   serine   metabolism-dependency.”   Journal   of   Experimental
