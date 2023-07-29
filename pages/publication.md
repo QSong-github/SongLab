@@ -2,9 +2,8 @@
 title: Publication
 layout: page
 ---
-# Publication
+# Publication (*corresponding author) 
 
-Manuscripts under review (*corresponding author:2) 
 ## Methodology
 * Tang Z, Zhang T, Yang B, Su J, Song Q*, “SpaRx: Elucidate single-cell spatial heterogeneity of drug
 responses for personalized treatment.” Under Revision in Briefings in Bioinformatics 
@@ -17,27 +16,6 @@ Disease.” Under Revision in Physics in Medicine and Biology
 “TCfinder: robust tumor cell discrimination in scRNA-seq based on gene pathway activity.”  Under
 Review in Bioinformatics
 
-## Applications
-* Wu S, Sharma S, Wu K, Tyagi A, Song Q, Zhang W, Miller L, Pullikuth A, Xing F, Zhao D, Deshpande
-R, Liu Y, Snoike Y, Ruiz J, Chan M, Chou J, Lyu F, Watabe K, “Engineered tumor antigen receptor
-macrophage as immunotherapy for brain metastasis of lung cancer.” Submitted to in  Science
-Immunology
-* Miao X, Wang H, Fan C, Song Q, Ding R, Wu J, Hu H, Chen K, Ji P, Wen Q, Shi M, Ye B, Fu D, Xiang
-M. “A polygenic lipid metabolic prognostic model improves the efficacy for outcome, chemotherapy and
-immunotherapy response prediction in head and neck squamous cell carcinoma.” Under Revision in
-Cancer Cell International
-* Lu Z, Miao X, Song   Q, Ding H, Skardal A, Dai K, Zhao W, Lu B, Atala A, “Detection of lineage-
-reprogramming efficiency of tumor cells in a 3D-printed tumor-on-a-chip model.” Under Revision in
-Bioactive Materials
-* Walton N, Nagarajan R, Wang C, Sincan M, Freimuth R, Everman D, Walton D, Lemas D, Benos P,
-Alekseyenko A, Song Q, Uzun E, Taylor C, Alpher U, Person T, Rappoport N, Zhao Z, Williams M. 
-“Enabling Clinical Application of Artificial Intelligence in Genomics: An Analysis of Current State and
-Future Needs - From the AMIA Genomics and Translational Bioinformatics Workgroup.” Under Revision
-in JAMIA
-
-<br />
-Journal articles (First or <sup>#</sup>co-first author: 11, *corresponding author: 8) 
-## Methodology
 * Tang Z, Zhang T, Yang B, Su J,  Song   Q*, “SiGra: Single-cell spatial elucidation through image-
 augmented graph transformer.” Nature Communications (Accepted)
 * Tang Z, Zhang T, Yang B, Su J, Song Q*, “spaCI: deciphering spatial cellular communications through
@@ -68,6 +46,23 @@ Subtype Identification in Alzheimer's Disease.” Medical Physics (Accepted)
 identification of RNA-protein binding sites." Scientific Reports (2017); 7(1):1-3.
 
 ## Applications
+* Wu S, Sharma S, Wu K, Tyagi A, Song Q, Zhang W, Miller L, Pullikuth A, Xing F, Zhao D, Deshpande
+R, Liu Y, Snoike Y, Ruiz J, Chan M, Chou J, Lyu F, Watabe K, “Engineered tumor antigen receptor
+macrophage as immunotherapy for brain metastasis of lung cancer.” Submitted to in  Science
+Immunology
+* Miao X, Wang H, Fan C, Song Q, Ding R, Wu J, Hu H, Chen K, Ji P, Wen Q, Shi M, Ye B, Fu D, Xiang
+M. “A polygenic lipid metabolic prognostic model improves the efficacy for outcome, chemotherapy and
+immunotherapy response prediction in head and neck squamous cell carcinoma.” Under Revision in
+Cancer Cell International
+* Lu Z, Miao X, Song   Q, Ding H, Skardal A, Dai K, Zhao W, Lu B, Atala A, “Detection of lineage-
+reprogramming efficiency of tumor cells in a 3D-printed tumor-on-a-chip model.” Under Revision in
+Bioactive Materials
+* Walton N, Nagarajan R, Wang C, Sincan M, Freimuth R, Everman D, Walton D, Lemas D, Benos P,
+Alekseyenko A, Song Q, Uzun E, Taylor C, Alpher U, Person T, Rappoport N, Zhao Z, Williams M. 
+“Enabling Clinical Application of Artificial Intelligence in Genomics: An Analysis of Current State and
+Future Needs - From the AMIA Genomics and Translational Bioinformatics Workgroup.” Under Revision
+in JAMIA
+
 * Bouch RJ, Zhang J, Miller BC, Robbins CJ, Mosher TH, Li W, Krupenko SA, Nagpal R, Zhao J, Lu Y,
 Nikiforov MA, Song Q*, He Z*. “Inflammatory Th17 cells in autoimmune colitis are distinguishable from
 infection-induced   Th17   cells   through   serine   metabolism-dependency.”   Journal   of   Experimental
