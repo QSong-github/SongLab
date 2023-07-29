@@ -2,7 +2,7 @@
 title: Publication
 layout: page
 ---
-# Publication (*corresponding author) 
+# Publication
 
 ## Methodology
 * Tang Z, Zhang T, Yang B, Su J, Song Q*, “SpaRx: Elucidate single-cell spatial heterogeneity of drug
@@ -13,7 +13,7 @@ in Alzheimer’s disease.” Under Review in  IEEE/ACM Transactions on Computati
 Vulnerability and Criticality of Human Brain under Evolving Neuropathological Events in Alzheimer’s
 Disease.” Under Revision in Physics in Medicine and Biology
 * Wu C, Ning W, Wu T, Chen J, Yao H, Tao Z, Wang G, Zhao X, Diao K, Wang J, Song Q, Liu X,
-“TCfinder: robust tumor cell discrimination in scRNA-seq based on gene pathway activity.”  Under
+“TCfinder: robust tumor cell discrimination in scRNA-seq based on gene pathway activity.” Under
 Review in Bioinformatics
 
 * Tang Z, Zhang T, Yang B, Su J,  Song   Q*, “SiGra: Single-cell spatial elucidation through image-
@@ -205,3 +205,4 @@ inference and multiscale modeling of scRNA-seq and proteomics data.
 * [scLM](https://github.com/QSong-github/scLM): automatic detection of consensus gene clusters across multiple single-cell datasets. 
 * [SPN](https://github.com/QSong-github/SPN): biological mechanism in breast cancer with different proliferation levels.
 
+![image](https://github.com/QSong-github/SongLab/assets/15790040/ece9a2bd-188d-455e-80bc-cd2a7559d5bb)
