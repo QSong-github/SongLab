@@ -205,5 +205,3 @@ inference and multiscale modeling of scRNA-seq and proteomics data.
 * [DSTG](https://github.com/QSong-github/DSTG): Deconvoluting Spatial Transcriptomics Data through Graph-based Artificial Intelligence. 
 * [scLM](https://github.com/QSong-github/scLM): automatic detection of consensus gene clusters across multiple single-cell datasets. 
 * [SPN](https://github.com/QSong-github/SPN): biological mechanism in breast cancer with different proliferation levels.
-
-![image](https://github.com/QSong-github/SongLab/assets/15790040/ece9a2bd-188d-455e-80bc-cd2a7559d5bb)
