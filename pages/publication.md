@@ -9,13 +9,13 @@ layout: page
 responses for personalized treatment.” Under Revision in Briefings in Bioinformatics 
 * Chen M, Xu C, Xu Z, He Z, Su J, **Song Q***, “SCRN: Single-cell Gene Regulatory Network Identification
 in Alzheimer’s disease.” Under Review in  IEEE/ACM Transactions on Computational Biology and Bioinformatics
-* Zhang J, Liu Q, Zhang H, Dai M,  Song   Q, Yang D, Wu G, Chen M. “Uncovering the System
+* Zhang J, Liu Q, Zhang H, Dai M,  Song Q, Yang D, Wu G, Chen M. “Uncovering the System
 Vulnerability and Criticality of Human Brain under Evolving Neuropathological Events in Alzheimer’s
 Disease.” Under Revision in Physics in Medicine and Biology
 * Wu C, Ning W, Wu T, Chen J, Yao H, Tao Z, Wang G, Zhao X, Diao K, Wang J, **Song Q**, Liu X,
 “TCfinder: robust tumor cell discrimination in scRNA-seq based on gene pathway activity.” Under
 Review in Bioinformatics
-* Tang Z, Zhang T, Yang B, Su J,  Song   Q*, “SiGra: Single-cell spatial elucidation through image-
+* Tang Z, Zhang T, Yang B, Su J,  **Song Q***, “SiGra: Single-cell spatial elucidation through image-
 augmented graph transformer.” Nature Communications (Accepted)
 * Tang Z, Zhang T, Yang B, Su J, **Song Q***, “spaCI: deciphering spatial cellular communications through
 adaptive graph model.” Briefings in Bioinformatics, (2023); bbac563.
@@ -31,9 +31,9 @@ Network for Revealing Gene Targets in Alzheimer’s Disease.”  Computers in Bi
 multi-omics data.” NAR genomics and bioinformatics (2022); 4(3), lqac056.
 * **Song Q**, Su J, Zhang W. “scGCN: a Graph Convolutional Networks Algorithm for Knowledge Transfer
 in Single Cell Omics.” Nature Communications (2021); (12):1-11.
-* Song   Q*, Su J. “DSTG: Deconvoluting Spatial Transcriptomics Data through Graph-based Artificial
+* **Song Q***, Su J. “DSTG: Deconvoluting Spatial Transcriptomics Data through Graph-based Artificial
 Intelligence.” Briefings in Bioinformatics (2021); bbaa414.
-* Song   Q, Su J, Miller L, Zhang W. “scLM: automatic detection of consensus gene clusters across
+* **Song Q**, Su J, Miller L, Zhang W. “scLM: automatic detection of consensus gene clusters across
 multiple single-cell datasets.” Genomics, Proteomics & Bioinformatics (2020); 19(2), 330–341.
 * **Song Q**, Wang H, Miller L and Zhou X. “Systems biology approach to studying proliferation-dependent
 prognostic subnetworks in breast cancer.” Scientific Reports (2015); 12981.
@@ -41,7 +41,7 @@ prognostic subnetworks in breast cancer.” Scientific Reports (2015); 12981.
 generalization of structural MRI in Alzheimer’s Disease.” ACM-BCB 2023 (Accepted).
 * Xu E, Zhang J, Li J, **Song Q**, Yang D, Wu G, Chen M. “Pathology Steered Stratification Network for
 Subtype Identification in Alzheimer's Disease.” Medical Physics (Accepted)
-* Luo J, Liu L, Suresh V,  Song   Q, and Zhou X. "RPI-Bind: a structure-based method for accurate
+* Luo J, Liu L, Suresh V,  **Song Q**, and Zhou X. "RPI-Bind: a structure-based method for accurate
 identification of RNA-protein binding sites." Scientific Reports (2017); 7(1):1-3.
 
 ## Applications
@@ -53,7 +53,7 @@ Immunology
 M. “A polygenic lipid metabolic prognostic model improves the efficacy for outcome, chemotherapy and
 immunotherapy response prediction in head and neck squamous cell carcinoma.” Under Revision in
 Cancer Cell International
-* Lu Z, Miao X, Song   Q, Ding H, Skardal A, Dai K, Zhao W, Lu B, Atala A, “Detection of lineage-
+* Lu Z, Miao X, **Song Q**, Ding H, Skardal A, Dai K, Zhao W, Lu B, Atala A, “Detection of lineage-
 reprogramming efficiency of tumor cells in a 3D-printed tumor-on-a-chip model.” Under Revision in
 Bioactive Materials
 * Walton N, Nagarajan R, Wang C, Sincan M, Freimuth R, Everman D, Walton D, Lemas D, Benos P,
@@ -67,7 +67,7 @@ infection-induced   Th17   cells   through   serine   metabolism-dependency.” 
 Medicine, 2023 Oct 2;220(10).
 * **Song Q**, O’Neill S, Pasche B, Miller L, Ruiz J, Chan M, Soike M, “Single Cell RNA Sequencing Reveals
 Pan-Brain Metastasis Immune Landscape.” Communications Biology (Accepted)
-* Song   Q, Bates B, Shao YR, Hsu F, Liu F, Madhira V, Mitra A, Bergquist T, Kavuluru R, Li X,
+* **Song Q**, Bates B, Shao YR, Hsu F, Liu F, Madhira V, Mitra A, Bergquist T, Kavuluru R, Li X,
 Sharafeldin N, Su J, Topaloglu U, "Risk and outcome of breakthrough COVID-19 infections in
 vaccinated patients with cancer: real-word evidence from the National COVID Cohort Collaborative
 (N3C)." Journal of Clinical Oncology (2022); 40(13),1414–1427.
@@ -88,12 +88,12 @@ Journal (Accepted)
 J, **Song Q**, Zhao D, Chandrasekaran A, Xing F, “c-Met mediated cytokine network promotes brain
 metastasis of breast cancer by remodeling neutrophil activities.” Cancers (2023);15(9):2626.
 * Meyers A, Wang Z, Han W, hao Q, Zabalawi M, Duan L, Zhang Q, Manne R, Lorenzo F, Quinn M,
-Song   Q, Fan D, Lin H, Furdui C, Locasale J, McCall C, Zhu X. “Pyruvate dehydrogenase kinase
+**Song Q**, Fan D, Lin H, Furdui C, Locasale J, McCall C, Zhu X. “Pyruvate dehydrogenase kinase
 supports macrophage NLRP3 inflammasome activation during acute inflammation.”  Cell Reports
 (2023); 42(1):111941 
 * Jiang Y, Song L, Lin Y, Li T, Li B, Mao X, **Song Q**, Xing C, Zheng G, Huang S, Jin L, “ROS-mediated
 SRMS activation confers platinum resistance in ovarian cancer.” Oncogene (2023);1-13.
-* Ji   Z,   Song   Q,   Su   J.   “Advanced   computational   systems   biology   approaches   for   accelerating
+* Ji   Z,   **Song Q**,   Su   J.   “Advanced   computational   systems   biology   approaches   for   accelerating
 comprehensive research of the human brain.” Frontiers in Genetics (2023);14.
 * N Yao, W Jiang, Y Wang, Q   Song, X Cao, Zheng W, Zhang J, "An immune-related signature for
 optimizing prognosis prediction and treatment decision of hepatocellular carcinoma." European Journal
@@ -115,7 +115,7 @@ oncogenic FGFR3-TACC3 fusion.” Molecular Therapy (2022); 30(4):1610-27
 * Zhang J, Wang L, **Song Q**, Xiao M, Gao J, Cao X, Zheng W. “Organoids in recapitulating tumorigenesis
 driven by risk factors: Current trends and future perspectives.”  International Journal of Biological
 Sciences (2022); 18(7):2729.
-* Bian S, Ni W, Zhu M, Zhang X, Qiang Y, Zhang J, Ni Z, Shen Y, Qiu S, Song  Q, Xiao M. ”Flap
+* Bian S, Ni W, Zhu M, Zhang X, Qiang Y, Zhang J, Ni Z, Shen Y, Qiu S, **Song Q**, Xiao M. ”Flap
 endonuclease   1   Facilitated   Hepatocellular   Carcinoma   Progression   by   Enhancing   USP7/MDM2-
 mediated P53 Inactivation.” International journal of biological sciences (2022); 18(3):1022.
 * Sharafeldin N, Bates B, **Song Q**, Madhira V, Yan Y, Dong S, Lee E, Kuhrt N, Shao YR, Liu F, Bergquist
@@ -138,7 +138,7 @@ Brain Metastasis Outcomes Following Craniotomy.” Frontiers in Oncology (2021);
 * Ni W, Bian S, Zhu M, **Song Q**, Zhang J, Xiao M, Zheng W. “Identification and Validation of Ubiquitin-
 specific Proteases as a Novel Prognostic Signature for Hepatocellular Carcinoma.”  Frontiers in
 Oncology (2021); 11:629327.
-* Zheng W, Zhang J,  Song   Q, Xu Y, Zhu M, Ma J. “Rac Family Small GTPase 3 Correlates with
+* Zheng W, Zhang J,  **Song Q**, Xu Y, Zhu M, Ma J. “Rac Family Small GTPase 3 Correlates with
 Progression and Poor Prognosis in Bladder Cancer.” DNA and Cell Biology (2021); 40(3):469-81.
 * Zhu M, Huang Y, Bian S, **Song Q**, Zhang J, Zheng W. “Organoid model: Current Implications and
 Pharmaceutical Applications in Liver Diseases.” Current Molecular Pharmacology (2021); 14(4):498-
@@ -148,7 +148,7 @@ Hepatocellular Carcinoma.” Current medicinal chemistry (2021); 28(1):93-109.
 * Bian S, Ni W, Zhu M, **Song Q**, Zhuang J, Ni R, Zheng W. “Identification and Validation of the N6-
 methyladenosine RNA Methylation Regulator YTHDF1 as A Novel Prognostic Marker and Potential
 Target for Hepatocellular Carcinoma.” Frontiers in Molecular Biosciences (2020); 7:604766.
-* Zhang   J,   Wu   M,   Xu   Y,  Song   Q,   Zheng   W.   “Secretory   Clusterin:   A   Promising   Target   for
+* Zhang   J,   Wu   M,   Xu   Y,  **Song Q**,   Zheng   W.   “Secretory   Clusterin:   A   Promising   Target   for
 Chemoresistance   of   Hepatocellular   Carcinoma.”  Mini   reviews   in   medicinal   chemistry  (2020);
 20(12):1153-65.
 * Zhang J, **Song Q**, Liu J, Lu L, Xu Y, & Zheng W. “Cyclin-Dependent Kinase Regulatory Subunit 2
@@ -177,16 +177,16 @@ Graph-based Artificial Intelligence.” AMIA 2020
 * **Song Q**, Forbes E, Miller L, Triozzi P, Liu L, Zhang W, Soto-Pantoja D. “Single-cell analysis predicts
 immunotherapy response in melanoma.” 2020 Tumor Heterogeneity: From Single Cells to Clinical
 Impact Special Conference Abstracts
-* Song   Q, Su J, Miller L, Zhang W. “scLM: automatic detection of consensus gene clusters across
+* **Song Q**, Su J, Miller L, Zhang W. “scLM: automatic detection of consensus gene clusters across
 multiple single-cell datasets.” Cancer Res 2020
-* Song   Q,   Hawkins   G,   Wudel   L,   et.al.   “Dissecting   intratumoral   cell-cell   interactions   in   myeloid
+* **Song Q**,   Hawkins   G,   Wudel   L,   et.al.   “Dissecting   intratumoral   cell-cell   interactions   in   myeloid
 reprogramming by single cell RNA-seq.” Cancer Res 2019
 * Su J, **Song Q**, O’Neill S, Pasche B, Miller L, Ruiz J, Chan M, Soike M. “Single Cell RNA Sequencing
 Reveals Pan-Brain Metastasis Immune Landscape.” AMIA 2020
-* Li T, Mehraein-Ghomi F, Namjoshi S, Song   Q, Ballard E, Forbes M, Chou P, Yang X, Zhang W.
+* Li T, Mehraein-Ghomi F, Namjoshi S, **Song Q**, Ballard E, Forbes M, Chou P, Yang X, Zhang W.
 “Abstract B036: Targeting Hsp90-Cdc37 complex in glioma harboring FGFR3-TACC3.” Mol Cancer
 Ther 2019 
-* Sun L,  Song   Q, Tian W, Zhang Z. “MiR-506 suppresses tumor progression by reprogramming 
+* Sun L,  **Song Q**, Tian W, Zhang Z. “MiR-506 suppresses tumor progression by reprogramming 
 macrophage polarization in pancreatic ductal adenocarcinoma.” Cancer Res 2019
 * Wu D, Su J, **Song Q**, Zhou X. “SDF1/CXCR4 regulates stiffness of bone marrow stromal cell through
 RhoA and Rac1 GTPases pathway to support myeloma cell proliferation in multiple myeloma.” Cancer
