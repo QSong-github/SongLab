@@ -17,13 +17,13 @@ layout: page
 * **Song Q***, Su J. “DSTG: Deconvoluting Spatial Transcriptomics Data through Graph-based Artificial Intelligence.” _Briefings in Bioinformatics_ (2021); bbaa414.
 * **Song Q**, Su J, Miller L, Zhang W. “scLM: automatic detection of consensus gene clusters across multiple single-cell datasets.” _Genomics, Proteomics & Bioinformatics_ (2020); 19(2), 330–341.
 * **Song Q**, Wang H, Miller L and Zhou X. “Systems biology approach to studying proliferation-dependent prognostic subnetworks in breast cancer.” _Scientific Reports_ (2015); 12981.
+* Tang Z, Zhang T, **Song Q**, Su J, Yang B. “PINet: Privileged Information Improve the Interpretablity and generalization of structural MRI in Alzheimer’s Disease.” _ACM-BCB 2023_ (Accepted).
+* Xu E, Zhang J, Li J, **Song Q**, Yang D, Wu G, Chen M. “Pathology Steered Stratification Network for Subtype Identification in Alzheimer's Disease.” _Medical Physics_ (Accepted)
+* Luo J, Liu L, Suresh V, **Song Q**, and Zhou X. "RPI-Bind: a structure-based method for accurate identification of RNA-protein binding sites." _Scientific Reports_ (2017); 7(1):1-3.
 * Zhang J, Liu Q, Zhang H, Dai M, **Song Q**, Yang D, Wu G, Chen M. “Uncovering the System
 Vulnerability and Criticality of Human Brain under Evolving Neuropathological Events in Alzheimer’s Disease.” Under Revision in _Physics in Medicine and Biology_
 * Wu C, Ning W, Wu T, Chen J, Yao H, Tao Z, Wang G, Zhao X, Diao K, Wang J, **Song Q**, Liu X,
 “TCfinder: robust tumor cell discrimination in scRNA-seq based on gene pathway activity.” Under Review in _Bioinformatics_
-* Tang Z, Zhang T, **Song Q**, Su J, Yang B. “PINet: Privileged Information Improve the Interpretablity and generalization of structural MRI in Alzheimer’s Disease.” _ACM-BCB 2023_ (Accepted).
-* Xu E, Zhang J, Li J, **Song Q**, Yang D, Wu G, Chen M. “Pathology Steered Stratification Network for Subtype Identification in Alzheimer's Disease.” _Medical Physics_ (Accepted)
-* Luo J, Liu L, Suresh V, **Song Q**, and Zhou X. "RPI-Bind: a structure-based method for accurate identification of RNA-protein binding sites." _Scientific Reports_ (2017); 7(1):1-3.
 
 ## Applications
 * Bouch RJ, Zhang J, Miller BC, Robbins CJ, Mosher TH, Li W, Krupenko SA, Nagpal R, Zhao J, Lu Y,
