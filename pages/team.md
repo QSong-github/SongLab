@@ -11,15 +11,15 @@ Dr. Song’s research is focused on developing innovative computational methods 
 
 ## Trainee
 
-### Aishwarya Shishir Budhkar, PhD student,	2022 – present 
+**Aishwarya Shishir Budhkar, PhD student,	2022 – present** 
 
-### Ziyang Tang, PhD student,	2021 – 2023 
+**Ziyang Tang, PhD student,	2021 – 2023** 
 
-### Zhaorui Liu, master student, 2021
+**Zhaorui Liu, master student, 2021**
 
-### Tatyana Cook, undergraduate intern,	2022  
+**Tatyana Cook, undergraduate intern,	2022**  
 
-### ChenHao Li, undergraduate intern,	2022 
+**ChenHao Li, undergraduate intern,	2022** 
 
 ### Xuanyu Chen, undergraduate intern,	2022 
 
