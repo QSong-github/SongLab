@@ -19,6 +19,6 @@ Dr. Qianqian Song is a tenure-track Assistant Professor at Wake Forest Universit
 
 **ChenHao Li, undergraduate intern,	2022** 
 
-### Xuanyu Chen, undergraduate intern,	2022 
+**Xuanyu Chen, undergraduate intern, 2022** 
 
-### Zheyu Fu, undergraduate intern,	2022 
+**Zheyu Fu, undergraduate intern,	2022** 
