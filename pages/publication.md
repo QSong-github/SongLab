@@ -7,10 +7,6 @@ layout: page
 ## Methodology
 * Tang Z, Zhang T, Yang B, Su J, **Song Q***, “SpaRx: Elucidate single-cell spatial heterogeneity of drug responses for personalized treatment.” Under Revision in _Briefings in Bioinformatics_ 
 * Chen M, Xu C, Xu Z, He Z, Su J, **Song Q***, “SCRN: Single-cell Gene Regulatory Network Identification in Alzheimer’s disease.” Under Review in _IEEE/ACM Transactions on Computational Biology and Bioinformatics_
-* Zhang J, Liu Q, Zhang H, Dai M, **Song Q**, Yang D, Wu G, Chen M. “Uncovering the System
-Vulnerability and Criticality of Human Brain under Evolving Neuropathological Events in Alzheimer’s Disease.” Under Revision in _Physics in Medicine and Biology_
-* Wu C, Ning W, Wu T, Chen J, Yao H, Tao Z, Wang G, Zhao X, Diao K, Wang J, **Song Q**, Liu X,
-“TCfinder: robust tumor cell discrimination in scRNA-seq based on gene pathway activity.” Under Review in _Bioinformatics_
 * Tang Z, Zhang T, Yang B, Su J, **Song Q***, “SiGra: Single-cell spatial elucidation through image-augmented graph transformer.” _Nature Communications_ (Accepted)
 * Tang Z, Zhang T, Yang B, Su J, **Song Q***, “spaCI: deciphering spatial cellular communications through adaptive graph model.” Briefings in Bioinformatics, (2023); bbac563.
 * Rao F, Chen M, Yang D, Morrell B, **Song Q***, Zhu W. “scENT for revealing gene clusters from single-cell RNA-seq data.” _IEEE/ACM Transactions on Computational Biology and Bioinformatics_ (2023)
@@ -21,17 +17,17 @@ Vulnerability and Criticality of Human Brain under Evolving Neuropathological Ev
 * **Song Q***, Su J. “DSTG: Deconvoluting Spatial Transcriptomics Data through Graph-based Artificial Intelligence.” _Briefings in Bioinformatics_ (2021); bbaa414.
 * **Song Q**, Su J, Miller L, Zhang W. “scLM: automatic detection of consensus gene clusters across multiple single-cell datasets.” _Genomics, Proteomics & Bioinformatics_ (2020); 19(2), 330–341.
 * **Song Q**, Wang H, Miller L and Zhou X. “Systems biology approach to studying proliferation-dependent prognostic subnetworks in breast cancer.” _Scientific Reports_ (2015); 12981.
+* Zhang J, Liu Q, Zhang H, Dai M, **Song Q**, Yang D, Wu G, Chen M. “Uncovering the System
+Vulnerability and Criticality of Human Brain under Evolving Neuropathological Events in Alzheimer’s Disease.” Under Revision in _Physics in Medicine and Biology_
+* Wu C, Ning W, Wu T, Chen J, Yao H, Tao Z, Wang G, Zhao X, Diao K, Wang J, **Song Q**, Liu X,
+“TCfinder: robust tumor cell discrimination in scRNA-seq based on gene pathway activity.” Under Review in _Bioinformatics_
 * Tang Z, Zhang T, **Song Q**, Su J, Yang B. “PINet: Privileged Information Improve the Interpretablity and generalization of structural MRI in Alzheimer’s Disease.” _ACM-BCB 2023_ (Accepted).
 * Xu E, Zhang J, Li J, **Song Q**, Yang D, Wu G, Chen M. “Pathology Steered Stratification Network for Subtype Identification in Alzheimer's Disease.” _Medical Physics_ (Accepted)
-* Luo J, Liu L, Suresh V,  **Song Q**, and Zhou X. "RPI-Bind: a structure-based method for accurate identification of RNA-protein binding sites." _Scientific Reports_ (2017); 7(1):1-3.
+* Luo J, Liu L, Suresh V, **Song Q**, and Zhou X. "RPI-Bind: a structure-based method for accurate identification of RNA-protein binding sites." _Scientific Reports_ (2017); 7(1):1-3.
 
 ## Applications
-* Wu S, Sharma S, Wu K, Tyagi A, **Song Q**, Zhang W, Miller L, Pullikuth A, Xing F, Zhao D, Deshpande R, Liu Y, Snoike Y, Ruiz J, Chan M, Chou J, Lyu F, Watabe K, “Engineered tumor antigen receptor macrophage as immunotherapy for brain metastasis of lung cancer.” Submitted to _Science Immunology_
-* Miao X, Wang H, Fan C, **Song Q**, Ding R, Wu J, Hu H, Chen K, Ji P, Wen Q, Shi M, Ye B, Fu D, Xiang M. “A polygenic lipid metabolic prognostic model improves the efficacy for outcome, chemotherapy and immunotherapy response prediction in head and neck squamous cell carcinoma.” Under Revision in _Cancer Cell International_
-* Lu Z, Miao X, **Song Q**, Ding H, Skardal A, Dai K, Zhao W, Lu B, Atala A, “Detection of lineage-reprogramming efficiency of tumor cells in a 3D-printed tumor-on-a-chip model.” Under Revision in _Bioactive Materials_
-* Walton N, Nagarajan R, Wang C, Sincan M, Freimuth R, Everman D, Walton D, Lemas D, Benos P, Alekseyenko A, **Song Q**, Uzun E, Taylor C, Alpher U, Person T, Rappoport N, Zhao Z, Williams M. “Enabling Clinical Application of Artificial Intelligence in Genomics: An Analysis of Current State and Future Needs - From the AMIA Genomics and Translational Bioinformatics Workgroup.” Under Revision in _JAMIA_
 * Bouch RJ, Zhang J, Miller BC, Robbins CJ, Mosher TH, Li W, Krupenko SA, Nagpal R, Zhao J, Lu Y,
-Nikiforov MA, **Song Q***, He Z*. “Inflammatory Th17 cells in autoimmune colitis are distinguishable from infection-induced   Th17   cells   through   serine   metabolism-dependency.” _Journal of Experimental Medicine_, 2023 Oct 2;220(10).
+Nikiforov MA, **Song Q***, He Z. “Inflammatory Th17 cells in autoimmune colitis are distinguishable from infection-induced   Th17   cells   through   serine   metabolism-dependency.” _Journal of Experimental Medicine_, 2023 Oct 2;220(10).
 * **Song Q**, O’Neill S, Pasche B, Miller L, Ruiz J, Chan M, Soike M, “Single Cell RNA Sequencing Reveals Pan-Brain Metastasis Immune Landscape.” _Communications Biology_(Accepted)
 * **Song Q**, Bates B, Shao YR, Hsu F, Liu F, Madhira V, Mitra A, Bergquist T, Kavuluru R, Li X,
 Sharafeldin N, Su J, Topaloglu U, "Risk and outcome of breakthrough COVID-19 infections in
@@ -40,6 +36,10 @@ vaccinated patients with cancer: real-word evidence from the National COVID Coho
 * **Song Q**, Hawkins G, Wudel L, et.al. “Dissecting intratumoral myeloid cell plasticity by single cell RNA-seq.” _Cancer Medicine_ (2019); 8(6):3072-85.
 * **Song Q**, Zhang W and Sun Y. “Haploinsufficiency and mutation are two sides of the cancer coin as cause and therapeutics target.” _Translational Cancer Research_ (2017); S590-S593
 * Zhang J, Gu C, **Song Q#**, Zhu M, Xu Y, Xiao M, Zheng W. “Identifying cancer-associated fibroblasts as emerging targets for hepatocellular carcinoma.” _Cell & Bioscience_ (2020);10(1):1-5.
+* Wu S, Sharma S, Wu K, Tyagi A, **Song Q**, Zhang W, Miller L, Pullikuth A, Xing F, Zhao D, Deshpande R, Liu Y, Snoike Y, Ruiz J, Chan M, Chou J, Lyu F, Watabe K, “Engineered tumor antigen receptor macrophage as immunotherapy for brain metastasis of lung cancer.” Submitted to _Science Immunology_
+* Miao X, Wang H, Fan C, **Song Q**, Ding R, Wu J, Hu H, Chen K, Ji P, Wen Q, Shi M, Ye B, Fu D, Xiang M. “A polygenic lipid metabolic prognostic model improves the efficacy for outcome, chemotherapy and immunotherapy response prediction in head and neck squamous cell carcinoma.” Under Revision in _Cancer Cell International_
+* Lu Z, Miao X, **Song Q**, Ding H, Skardal A, Dai K, Zhao W, Lu B, Atala A, “Detection of lineage-reprogramming efficiency of tumor cells in a 3D-printed tumor-on-a-chip model.” Under Revision in _Bioactive Materials_
+* Walton N, Nagarajan R, Wang C, Sincan M, Freimuth R, Everman D, Walton D, Lemas D, Benos P, Alekseyenko A, **Song Q**, Uzun E, Taylor C, Alpher U, Person T, Rappoport N, Zhao Z, Williams M. “Enabling Clinical Application of Artificial Intelligence in Genomics: An Analysis of Current State and Future Needs - From the AMIA Genomics and Translational Bioinformatics Workgroup.” Under Revision in _JAMIA_
 * Mitra AK, Mukherjee U, Mazumder S, Madhira V, Bergquist T, Shao Y, Liu F, **Song Q**, Su J, Kumar S, Bates B, Sharafeldin N, Topaloglu U, “Sample average treatment effect on the treated analysis using counterfactual explanation identifies BMT and SARS-CoV-2 vaccination as protective risk factors associated with COVID-19 severity and survival in patients with multiple myeloma.” _Blood Cancer Journal_ (Accepted)
 * Liu Y, Smith M, Wang Y, D’Agostino R, Ruiz J, Lycan T, Kucera G, Miller L, Li W, Chan M, Farris M, Su J, **Song Q**, Zhao D, Chandrasekaran A, Xing F, “c-Met mediated cytokine network promotes brain metastasis of breast cancer by remodeling neutrophil activities.” _Cancers_ (2023);15(9):2626.
 * Meyers A, Wang Z, Han W, hao Q, Zabalawi M, Duan L, Zhang Q, Manne R, Lorenzo F, Quinn M, **Song Q**, Fan D, Lin H, Furdui C, Locasale J, McCall C, Zhu X. “Pyruvate dehydrogenase kinase supports macrophage NLRP3 inflammasome activation during acute inflammation.” _Cell Reports_ (2023); 42(1):111941 
