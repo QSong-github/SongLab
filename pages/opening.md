@@ -25,3 +25,11 @@ Contact Information: Interested individuals are encouraged to contact Dr. Song (
 2. Transcripts if applicable
 3. Research publications if applicable
 4. Email subject “PhD/Postdoc Application + Preferred Start Time”
+
+## Why University of Florida?
+
+Overall Ranking: #5 among public universities; #29 among all universities (USNews 2022)
+
+UF has a University-wide AI Initiative with a $70 million partnership with NVIDIA that established the world’s fastest AI supercomputer in higher education: HiperGator AI with 140 NVIDIA DGX™ A100 systems (1,120 A100 GPU). UF is among the most comprehensive research universities with 16 colleges, over 100 departments, over 5000 faculty, and near $1 Billion annual research expenditure.
+
+Location: UF is located in Gainesville, named the most liveable city in US, less than 2 hours away from major theme parks (e.g., Disney World, Universal Studio) and beautiful Florida coasts (sunshine, beaches, seafoods).
