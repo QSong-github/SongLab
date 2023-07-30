@@ -6,6 +6,7 @@ layout: page
 
 Our research focuses on three closely related areas in bioinformatics and biomedical informatics as outlined below.
 
+![Image text](https://github.com/QSong-github/SongLab/tree/main/assets/images/overview.png)
 
 ## Advanced ML/AI Method Development
 
