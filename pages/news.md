@@ -18,7 +18,7 @@ layout: page
 
 * **[July 2023]** Dr. Qianqian Song is invited to present at the 8th edition of International Webinar on Aging and Rejuvenation
 
-* **[July-2023]** Our manuscript “Single Cell RNA Sequencing Reveals Pan-Brain Metastasis Immune Landscape” is accepted for publication in _Communications Biology_!
+* **[July 2023]** Our manuscript “Single Cell RNA Sequencing Reveals Pan-Brain Metastasis Immune Landscape” is accepted for publication in _Communications Biology_!
 
 * **[July 2023]** Dr. Qianqian Song is invited as the Guest Editor in _Mathematical Biosciences and Engineering_
 
@@ -38,8 +38,6 @@ on Intelligent Biology and Medicine (ICIBM)
 * **[Jun 2023]** Dr. Qianqian Song served as an ad-hoc reviewer for NSF proposal
 
 * **[May 2023]** Dr. Qianqian Song is invited to present at the BIG seminar at Emory University
-
-* **[May 2022]** Dr. Qianqian Song is invited to review for the AI4Science workshop at ICML 2022
 
 * **[May 2023]** Our manuscript “scENT for revealing gene clusters from single- cell RNA-seq data” is accepted for publication in _IEEE/ACM Transactions on Computational Biology and Bioinformatics_!
 
@@ -92,6 +90,8 @@ on Intelligent Biology and Medicine (ICIBM)
 * **[Oct 2022]** Our manuscript “Uncovering the dynamic effects of DEX treatment on lung cancer by integrating bioinformatic inference and multiscale modeling of scRNA-seq and proteomics data” is accepted for publication in _Computers in biology and medicine_!
 
 * **[Sep 2022]** Our manuscript “SMGR: a joint sstatistical method for integrative analysis of single-cell multi-omics data” is accepted for publication in _NAR genomics and bioinformatics_!
+
+* **[May 2022]** Dr. Qianqian Song is invited to review for the AI4Science workshop at ICML 2022
 
 * **[Apr 2022]** Dr. Qianqian Song is invited as the Guest Editor in _Frontiers in Bioengineering and Biotechnology_
 
