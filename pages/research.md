@@ -7,7 +7,7 @@ layout: page
 Our research focuses on three closely related areas in bioinformatics and biomedical informatics as outlined below.
 
 
-## ML/AL Method Development
+## Advanced ML/AI Method Development
 
 Recent advances in spatial molecular imaging have allowed examination of the spatial landscapes and transcriptional profiles of tumor tissues at subcellular resolution, which is crucial for understanding the tumor spatial microenvironment. Current commercially available technologies for spatial high-plex profiling are capable to accurately capture the locations of targeted transcripts, cell locations, and cell boundaries, accompanied with multi-channel immunohistochemistry (IHC) images. Interrogating such multi-modality spatial profiling for cancer research is challenging and overwhelms traditional machine learning approaches.
 
