@@ -2,7 +2,7 @@
 title: Research Interests
 layout: page
 ---
-# Research Interests
+# Research
 
 Our research focuses on three closely related areas in bioinformatics and biomedical informatics as outlined below.
 
