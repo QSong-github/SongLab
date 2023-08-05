@@ -8,6 +8,7 @@ layout: page
 * Tang Z, Zhang T, Yang B, Su J, **Song Q***, “SpaRx: Elucidate single-cell spatial heterogeneity of drug responses for personalized treatment.” Under Revision in _Briefings in Bioinformatics_ 
 * Chen M, Xu C, Xu Z, He Z, Su J, **Song Q***, “SCRN: Single-cell Gene Regulatory Network Identification in Alzheimer’s disease.” Under Review in _IEEE/ACM Transactions on Computational Biology and Bioinformatics_
 * Tang Z, Zhang T, Yang B, Su J, **Song Q***, “SiGra: Single-cell spatial elucidation through image-augmented graph transformer.” _Nature Communications_ (Accepted)
+* Tang Z, Zhang T, **Song Q***, Su J, Yang B. “PINet: Privileged Information Improve the Interpretablity and generalization of structural MRI in Alzheimer’s Disease.” _ACM-BCB 2023_ (Accepted).
 * Tang Z, Zhang T, Yang B, Su J, **Song Q***, “spaCI: deciphering spatial cellular communications through adaptive graph model.” Briefings in Bioinformatics, (2023); bbac563.
 * Rao F, Chen M, Yang D, Morrell B, **Song Q***, Zhu W. “scENT for revealing gene clusters from single-cell RNA-seq data.” _IEEE/ACM Transactions on Computational Biology and Bioinformatics_ (2023)
 * Chen M, Xu C, Xu Z, He Z, Su J, **Song Q***, “Uncovering the dynamic effects of DEX treatment on lung cancer by integrating bioinformatic inference and multiscale modeling of scRNA-seq and proteomics data.” _Computers in biology and medicine_ (2022); 149,105999.
@@ -17,7 +18,6 @@ layout: page
 * **Song Q***, Su J. “DSTG: Deconvoluting Spatial Transcriptomics Data through Graph-based Artificial Intelligence.” _Briefings in Bioinformatics_ (2021); bbaa414.
 * **Song Q**, Su J, Miller L, Zhang W. “scLM: automatic detection of consensus gene clusters across multiple single-cell datasets.” _Genomics, Proteomics & Bioinformatics_ (2020); 19(2), 330–341.
 * **Song Q**, Wang H, Miller L and Zhou X. “Systems biology approach to studying proliferation-dependent prognostic subnetworks in breast cancer.” _Scientific Reports_ (2015); 12981.
-* Tang Z, Zhang T, **Song Q**, Su J, Yang B. “PINet: Privileged Information Improve the Interpretablity and generalization of structural MRI in Alzheimer’s Disease.” _ACM-BCB 2023_ (Accepted).
 * Xu E, Zhang J, Li J, **Song Q**, Yang D, Wu G, Chen M. “Pathology Steered Stratification Network for Subtype Identification in Alzheimer's Disease.” _Medical Physics_ (Accepted)
 * Luo J, Liu L, Suresh V, **Song Q**, and Zhou X. "RPI-Bind: a structure-based method for accurate identification of RNA-protein binding sites." _Scientific Reports_ (2017); 7(1):1-3.
 * Zhang J, Liu Q, Zhang H, Dai M, **Song Q**, Yang D, Wu G, Chen M. “Uncovering the System
