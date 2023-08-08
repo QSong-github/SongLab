@@ -4,13 +4,13 @@ layout: page
 ---
 # News
 
-* **[Aug 2023]** Dr. Qianqian Song is invited to present at the 4th Edition of International Precision Medicine Conference
+* **[Aug 2023]** Dr. Qianqian Song is invited to present at the NCI-FNL’s Clinical and Translational Serology Task Force (CTTF) monthly meeting
 
 * **[Aug 2023]** Our manuscript "A polygenic lipid metabolic prognostic model improves the efficacy for outcome, chemotherapy and immunotherapy response prediction in head and neck squamous cell carcinoma.” is accepted by _Cancer Cell International_！
 
 * **[Aug 2023]** Dr. Qianqian Song is invited to present at the Biocompare Bench Tip Webinar
 
-* **[Aug 2023]** Dr. Qianqian Song is invited to present at the NCI-FNL’s Clinical and Translational Serology Task Force (CTTF) monthly meeting
+* **[Aug 2023]** Dr. Qianqian Song is invited to present at the 4th Edition of International Precision Medicine Conference
 
 * **[July 2023]** Our manuscript “PINet: Privileged Information Improve the Interpretablity and generalization of structural MRI in Alzheimer’s Disease” is accepted by _ACM-BCB 2023_!
 
