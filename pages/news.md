@@ -35,6 +35,8 @@ on Intelligent Biology and Medicine (ICIBM)
 
 * **[Jun 2023]** Dr. Qianqian Song served as the panel reviewer in NIH GCAT study section.
 
+* **[Jun 2023]** Our manuscript “Distinct inflammatory Th17 subsets emerge in autoimmunity and infection” is accepted for publication in _Journal of Experimental Medicine (JEM)_!
+
 * **[Jun 2023]** Dr. Qianqian Song is invited to join in the Editorial Board of _Cell Biology and Development Studies_
 
 * **[Jun 2023]** Dr. Qianqian Song is invited to present at the 2023 WFBCCC CGM retreat
