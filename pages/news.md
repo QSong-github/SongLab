@@ -8,6 +8,8 @@ layout: page
 
 * **[Aug 2023]** Dr. Qianqian Song is invited as reviewer for the AI4Science workshop at NeurIPS 2023. Submissions are welcomed!
 
+* **[Aug 2023]** Dr. Qianqian Song attended the MCBIOS 2023 annual board retreat! Welcome to MCBIOS 2024 in Atlanta!
+  
 * **[Aug 2023]** Dr. Qianqian Song is invited to present at the NCI-FNL’s Clinical and Translational Serology Task Force (CTTF) monthly meeting
 
 * **[Aug 2023]** Our manuscript "A polygenic lipid metabolic prognostic model improves the efficacy for outcome, chemotherapy and immunotherapy response prediction in head and neck squamous cell carcinoma.” is accepted by _Cancer Cell International_！
