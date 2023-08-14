@@ -4,6 +4,8 @@ layout: page
 ---
 # News
 
+* **[Aug 2023]** We are incredibly grateful to the NIH/NIGMS for funding our R35 MIRA grant (Maximizing Investigators Research Award) for the next 5 years!
+
 * **[Aug 2023]** Dr. Qianqian Song is invited as reviewer for the AI4Science workshop at NeurIPS 2023. Submissions are welcomed!
 
 * **[Aug 2023]** Dr. Qianqian Song is invited to present at the NCI-FNL’s Clinical and Translational Serology Task Force (CTTF) monthly meeting
