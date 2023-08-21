@@ -10,7 +10,7 @@ College of Medicine, University of Florida. Candidates will work with Dr. Song. 
 Requirements for PhD candidates:    
 1. Strong passion and motivation for research with a desire to solve practical bioinformatics problems
 2. Undergraduate or Master students in bioinformatics, biostatistics, or related majors
-3. Minimum language requirement (TOEFL,GRE) by university
+3. Minimum language requirement (TOEFL/IELTS) by university; GRE is not required
 4. Programming skills with Python/R
 
 Requirements for Postdocs:
