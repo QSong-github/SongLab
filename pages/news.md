@@ -6,7 +6,9 @@ layout: page
 
 * **[Aug 2023]** We are incredibly grateful to the NIH/NIGMS for funding our R35 MIRA grant (Maximizing Investigators Research Award) for the next 5 years!
 
-* **[Aug 2023]** Dr. Qianqian Song is invited as reviewer for the AI4Science workshop at NeurIPS 2023. Submissions are welcomed!
+* **[Aug 2023]** Dr. Qianqian Song is invited as reviewer for the GenBio workshop at NeurIPS 2023 (https://genbio-workshop.github.io/index.html#). Submissions are welcomed!
+  
+* **[Aug 2023]** Dr. Qianqian Song is invited as reviewer for the AI4Science workshop at NeurIPS 2023 (https://ai4sciencecommunity.github.io/neurips23.html). Submissions are welcomed!
 
 * **[Aug 2023]** Dr. Qianqian Song attended the MCBIOS 2023 annual board retreat! Welcome to MCBIOS 2024 in Atlanta!
   
