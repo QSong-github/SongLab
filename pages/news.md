@@ -4,6 +4,12 @@ layout: page
 ---
 # News
 
+* **[Sep 2023]** Our manuscript “SpaRx: Elucidate single-cell spatial heterogeneity of drug responses for personalized treatment” is accepted by _Briefings in Bioinformatics_!
+
+* **[Sep 2023]** Our manuscript “Detection of lineage-reprogramming efficiency of tumor cells in a 3D-printed tumor-on-a-chip model” is accepted by _Theranostics_!
+  
+* **[Sep 2023]** Dr. Qianqian Song is invited to present at the Department of Biology, Wake Forest University
+   
 * **[Aug 2023]** We are incredibly grateful to the NIH/NIGMS for funding our R35 MIRA grant (Maximizing Investigators Research Award) for the next 5 years!
 
 * **[Aug 2023]** Dr. Qianqian Song is invited as reviewer for the GenBio workshop at NeurIPS 2023 (https://genbio-workshop.github.io/index.html#). Submissions are welcomed!
@@ -14,7 +20,7 @@ layout: page
   
 * **[Aug 2023]** Dr. Qianqian Song is invited to present at the NCI-FNL’s Clinical and Translational Serology Task Force (CTTF) monthly meeting
 
-* **[Aug 2023]** Our manuscript "A polygenic lipid metabolic prognostic model improves the efficacy for outcome, chemotherapy and immunotherapy response prediction in head and neck squamous cell carcinoma.” is accepted by _Cancer Cell International_！
+* **[Aug 2023]** Our manuscript "Enhancing prognostic accuracy in head and neck squamous cell carcinoma chemotherapy via a lipid metabolism-related clustered polygenic model” is accepted by _Cancer Cell International_！
 
 * **[Aug 2023]** Dr. Qianqian Song is invited to present at the Biocompare Bench Tip Webinar
 
