@@ -7,7 +7,7 @@ layout: page
 ## Methodology
 * Tang Z, Zhang T, Yang B, Su J, **Song Q***, “SpaRx: Elucidate single-cell spatial heterogeneity of drug responses for personalized treatment.” _Briefings in Bioinformatics_ (Accepted)
 * Chen M, Xu C, Xu Z, He Z, Su J, **Song Q***, “SCRN: Single-cell Gene Regulatory Network Identification in Alzheimer’s disease.” Under Review in _IEEE/ACM Transactions on Computational Biology and Bioinformatics_
-* Tang Z, Zhang T, Yang B, Su J, **Song Q***, “SiGra: Single-cell spatial elucidation through image-augmented graph transformer.” _Nature Communications_ (Accepted)
+* Tang Z, Zhang T, Yang B, Su J, **Song Q***, “SiGra: Single-cell spatial elucidation through image-augmented graph transformer.” _Nature Communications_ (2023); 14(1),p5618.
 * Tang Z, Zhang T, **Song Q***, Su J, Yang B. “PINet: Privileged Information Improve the Interpretablity and generalization of structural MRI in Alzheimer’s Disease.” _ACM-BCB 2023_ (Accepted).
 * Tang Z, Zhang T, Yang B, Su J, **Song Q***, “spaCI: deciphering spatial cellular communications through adaptive graph model.” Briefings in Bioinformatics, (2023); bbac563.
 * Rao F, Chen M, Yang D, Morrell B, **Song Q***, Zhu W. “scENT for revealing gene clusters from single-cell RNA-seq data.” _IEEE/ACM Transactions on Computational Biology and Bioinformatics_ (2023)
@@ -18,7 +18,7 @@ layout: page
 * **Song Q***, Su J. “DSTG: Deconvoluting Spatial Transcriptomics Data through Graph-based Artificial Intelligence.” _Briefings in Bioinformatics_ (2021); bbaa414.
 * **Song Q**, Su J, Miller L, Zhang W. “scLM: automatic detection of consensus gene clusters across multiple single-cell datasets.” _Genomics, Proteomics & Bioinformatics_ (2020); 19(2), 330–341.
 * **Song Q**, Wang H, Miller L and Zhou X. “Systems biology approach to studying proliferation-dependent prognostic subnetworks in breast cancer.” _Scientific Reports_ (2015); 12981.
-* Xu E, Zhang J, Li J, **Song Q**, Yang D, Wu G, Chen M. “Pathology Steered Stratification Network for Subtype Identification in Alzheimer's Disease.” _Medical Physics_ (Accepted)
+* Xu E, Zhang J, Li J, **Song Q**, Yang D, Wu G, Chen M. “Pathology Steered Stratification Network for Subtype Identification in Alzheimer's Disease.” _Medical Physics_ (2023); 1-13
 * Luo J, Liu L, Suresh V, **Song Q**, and Zhou X. "RPI-Bind: a structure-based method for accurate identification of RNA-protein binding sites." _Scientific Reports_ (2017); 7(1):1-3.
 * Zhang J, Liu Q, Zhang H, Dai M, **Song Q**, Yang D, Wu G, Chen M. “Uncovering the System
 Vulnerability and Criticality of Human Brain under Evolving Neuropathological Events in Alzheimer’s Disease.” Under Revision in _Physics in Medicine and Biology_
@@ -70,6 +70,7 @@ endonuclease 1 Facilitated Hepatocellular Carcinoma Progression by Enhancing USP
 * Berger C, Korkut A, et.al, **Song Q**, et.al. “A comprehensive Pan-Cancer molecular study of gynecologic and breast cancers.” _Cancer Cell_ (2018); 33(4):690-705.
 
 ## Conference abstracts
+* Li Z, Liu X, Tang Z, Jin N, Eadon M, **Song Q**, Chen Y, Su J. “TrajVis: a visual clinical decision support system to translate AI/ML trajectory models in the precision management of CKD).” AMIA 2023
 * **Song Q**, Bates B, Hsu FC, Liu F, Madhira V, Mitra AK, Bergquist T, Li X, Sharafeldin N, Topaloglu U, Su J. “COVID-19 omicron variants demonstrated different virulence in infected patients with cancer: The real-world evidence from the National COVID Cohort Collaborative (N3C).” ASCO 2022
 * Sharafeldin N, Madhira V, **Song Q**, Bates B, Mitra AK, Liu F, Bergquist T, Su J, Hsu FC, Topaloglu U. “Long COVID-19 in patients with cancer: Report from the National COVID Cohort Collaborative (N3C).” ASCO 2022.
 * Mitra AK, Mukherjee U, Mazumder S, Madhira V, Bergquist T, Shao Y, Liu F, **Song Q**, Su J, Bates B, Sharafeldin N. “Major risk factors associated with severe COVID-19 outcomes in patients with multiple myeloma: Report from the National COVID-19 Cohort Collaborative (N3C).” ASCO 2022
