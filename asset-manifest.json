@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SongLab/static/css/main.b6343e44.chunk.css",
+    "main.js": "/SongLab/static/js/main.2910ff8c.chunk.js",
+    "main.js.map": "/SongLab/static/js/main.2910ff8c.chunk.js.map",
+    "runtime-main.js": "/SongLab/static/js/runtime-main.31e72695.js",
+    "runtime-main.js.map": "/SongLab/static/js/runtime-main.31e72695.js.map",
+    "static/css/2.d3bc0dc5.chunk.css": "/SongLab/static/css/2.d3bc0dc5.chunk.css",
+    "static/js/2.13c6377f.chunk.js": "/SongLab/static/js/2.13c6377f.chunk.js",
+    "static/js/2.13c6377f.chunk.js.map": "/SongLab/static/js/2.13c6377f.chunk.js.map",
+    "static/js/3.591f78fe.chunk.js": "/SongLab/static/js/3.591f78fe.chunk.js",
+    "static/js/3.591f78fe.chunk.js.map": "/SongLab/static/js/3.591f78fe.chunk.js.map",
+    "index.html": "/SongLab/index.html",
+    "static/css/2.d3bc0dc5.chunk.css.map": "/SongLab/static/css/2.d3bc0dc5.chunk.css.map",
+    "static/css/main.b6343e44.chunk.css.map": "/SongLab/static/css/main.b6343e44.chunk.css.map",
+    "static/js/2.13c6377f.chunk.js.LICENSE.txt": "/SongLab/static/js/2.13c6377f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31e72695.js",
+    "static/css/2.d3bc0dc5.chunk.css",
+    "static/js/2.13c6377f.chunk.js",
+    "static/css/main.b6343e44.chunk.css",
+    "static/js/main.2910ff8c.chunk.js"
+  ]
+}
