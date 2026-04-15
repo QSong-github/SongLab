@@ -217,11 +217,7 @@
       ],
 
       "PhD student": [
-        {
-          "name": "Sipei Gu (Advisor)",
-          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
-          "time": "2026 – present"
-        },
+
         {
           "name": "Daling Shi (Advisor)",
           "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
@@ -244,20 +240,16 @@
         }
       ],
 
-      "Undergraduate students": [
+      "Master student": [
         {
-          "name": "Zijia Tang (Advisor)",
-          "department": "Computer Science, Duke University",
-          "time": "2024"
+          "name": "Sipei Gu (Advisor)",
+          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2026 – present"
         }
-      ],
-      "High school students": [
-        {
-          "name": "Samuel Tong (Advisor)",
-          "department": "",
-          "time": "2024"
-        }
+
       ]
+
+
     },
     "graduated": {
       "Research Assistant": [
@@ -298,13 +290,26 @@
           "time": "2023"
         }
       ],
-      
+            "Undergraduate students": [
+        {
+          "name": "Zijia Tang (Advisor)",
+          "department": "Computer Science, Duke University",
+          "time": "2024"
+        }
+      ],
+
       "others": [
         {
           "name": "Mohammad Shafieinouri (MD-PhD Interview committee member)",
           "department": "University of Maryland‐Baltimore",
           "time": "2024"
         },
+                {
+          "name": "Samuel Tong (Advisor)",
+          "department": "",
+          "time": "2024"
+        },
+        
         {
           "name": "Tatyana Cook (Advisor)",
           "department": "Georgia Institute of Technology",
@@ -334,10 +339,14 @@
       "Mitra AK, Mukherjee U, Mazumder S, Madhira V, Bergquist T, Shao Y, Liu F, Song Q, Su J, Kumar S, Bates B, Sharafeldin N, Topaloglu U, \"Sample average treatment effect on the treated analysis using counterfactual explanation identifies BMT and SARS-CoV-2 vaccination as protective risk factors associated with COVID-19 severity and survival in patients with multiple myeloma.\" Blood Cancer Journal (Accepted)"
     ],
     "PublishedJournalArticles": [
-      "Pan Y, Cho H, Lou Q, Zhang W, Asken B, Song Q*, \"Systematic Review of Genetic Risk in Alzheimer's Disease\". npj Systems Biology and Applications (2026)",
-      "Wang S, Liu Y, Zhang Z, Ma Q, Song Q*, Bian J, \"GatorST: A Versatile Contrastive Meta-Learning Framework for Spatial Transcriptomic Data Analysis\", Small Methods (2025)",
-      "Wang Q, Pan Y, Zhou M, Tang Z, Wang Y, Wang Q, Song Q*, \"scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction\". Nature Communications (2025)",
-      "Li B, Zhang B, Zhang C, Huang W, Wang S, Wang Q, Li M, Zhang Y, Song Q*, \"PhenoProfiler: Advancing Morphology Representations for Image-based Drug Discovery\". Nature Communications (2025)",
+      "Miao X, Kong K, Rong K, Song Q, Guo T, Zhang C, Wu Q, Zhai Z, Sun Y, Gan Y, Xiang M, Dai K, Atala A, Lu Z, \"Construction of biomimetic gradient-structured cartilage organoids and mechanistic study of their application for cartilage rejuvenation\". Bioactive Materials (2026)",
+      "Pissinis J, Sinclair MS, Pilarczyk M, Chung C, Vidovic D, Rupprecht L, Sotolongo F, Mazariegos O, Jagodnik KM, Obregon C, Li T, Cen L, Bian J, Lee JH, Song Q, et al., \"Florida Cancer Research (FL CARES) network and the Platform for Accelerating Collaborative Computational Cancer Research (PAC3R)\". Cancer Research (Abstract, 2026)",
+      "Wu SY, Tyagi A, Wu K, Smith EC, Song Q, Sharma S, Miller LD, Zhang W, Pan BS, Lin HK, Lee JS, Pullikuth A, Xing F, Deshpande RP, Zhao D, Liu Y, Kim JW, Soike MH, Ruiz J, Chan M, Chou J, Parson A, Watabe K, \"MyD88-mediated chimaeric antigen receptor macrophages suppress brain metastasis using target-specific phagocytosis\". Nature Biomedical Engineering (2026)",
+      "Wang A, Wang Y, Liu X, Wang Q, Guo S, Wen J, Zhou X*, Song Q*, \"A hierarchical Bayesian framework for inferring mitochondrial clonal selection from single-cell data\". Nature Communications (Under Review)",
+      "Pan Y, Cho H, Lou Q, Zhang W, Asken B, Song Q*, \"Genetic Risk in Alzheimer's Disease\". npj Systems Biology and Applications (2026)",
+      "Wang S, Liu Y, Zhang Z, Ma Q, Song Q*, Bian J, \"GatorST: A Versatile Contrastive Meta-Learning Framework for Spatial Transcriptomic Data Analysis\", Small Methods (2026)",
+      "Wang Q, Pan Y, Zhou M, Tang Z, Wang Y, Wang Q, Song Q*, \"scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction\". Nature Communications (2026)",
+      "Li B, Zhang B, Zhang C, Huang W, Wang S, Wang Q, Li M, Zhang Y, Song Q*, \"PhenoProfiler: Advancing Morphology Representations for Image-based Drug Discovery\". Nature Communications (2026)",
       "Li B, Tang Z, Budhkar A, Zhang T, Yang B, Su J, Song Q*, \"SpaIM: Single-cell Spatial Transcriptomics Imputation via Style Transfer.\" Nature Communications (2025)",
       "Wang Y, Wang Q, Zhou M, Liu Y, Zhou X, Song Q*, \"Integration of Genetic and Imaging Data for Alzheimer's Disease Diagnosis and Interpretation\". Advanced Science (2025)",
       "Pan Y, Wang Y, Wang G, Su J, Topologu U, Song Q*, \"Large Language Models for Translational Bioinformatics and Pathology\". JCO Clinical Cancer Informatics (2025)",
@@ -665,24 +674,40 @@
     }
   ],
   "news": [
-    {
+  {
+    "date": "2026",
+    "description": "Our manuscript 'Construction of biomimetic gradient-structured cartilage organoids and mechanistic study of their application for cartilage rejuvenation' is published in Bioactive Materials!"
+  },
+  {
+    "date": "2026",
+    "description": "Our work 'Florida Cancer Research (FL CARES) network and the Platform for Accelerating Collaborative Computational Cancer Research (PAC3R)' is published as an abstract in Cancer Research!"
+  },
+  {
+    "date": "2026",
+    "description": "Our manuscript 'MyD88-mediated chimaeric antigen receptor macrophages suppress brain metastasis using target-specific phagocytosis' is published in Nature Biomedical Engineering!"
+  },
+  {
+    "date": "2026",
+    "description": "Our manuscript 'A hierarchical Bayesian framework for inferring mitochondrial clonal selection from single-cell data' is under review at Nature Communications!"
+  },
+  {
     "date": "2026",
     "description": "Dr. Qianqian Song received the University of Florida College of Medicine Rising Star Researcher Award in Data Science or Artificial Intelligence!"
   },
   {
     "date": "2026",
-    "description": "Our manuscript 'Systematic Review of Genetic Risk in Alzheimer's Disease' is accepted by npj Systems Biology and Applications!"
+    "description": "Our manuscript 'Genetic Risk in Alzheimer's Disease' is accepted by npj Systems Biology and Applications!"
   },
   {
-    "date": "2025",
+    "date": "2026",
     "description": "Our manuscript 'GatorST: A Versatile Contrastive Meta-Learning Framework for Spatial Transcriptomic Data Analysis' is accepted by Small Methods!"
   },
   {
-    "date": "2025",
+    "date": "2026",
     "description": "Our manuscript 'scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction' is accepted by Nature Communications!"
   },
   {
-    "date": "2025",
+    "date": "2026",
     "description": "Our manuscript 'PhenoProfiler: Advancing Morphology Representations for Image-based Drug Discovery' is accepted by Nature Communications!"
   },
   {
