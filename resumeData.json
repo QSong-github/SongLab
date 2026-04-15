@@ -210,82 +210,73 @@
       "PhD student": [
         {
           "name": "Sipei Gu",
-          "department": "",
           "time": "2026 – present"
         },
         {
           "name": "Daling Shi",
-          "department": "",
           "time": "2025 – present"
         },
         {
           "name": "Jialu Liang",
-          "department": "",
           "time": "2024 – present"
         },
         {
           "name": "Qing Wang",
-          "department": "",
           "time": "2024 – present"
         },
         {
           "name": "Aishwarya Shishir Budhkar",
-          "department": "",
           "time": "2022 – present"
         }
       ],
-      "Postdoc Fellow": [
+            "Postdoc Fellow": [
         {
           "name": "Sen Guo",
-          "department": "",
           "time": "2025-present"
         }
       ],
       "Undergraduate students": [
         {
           "name": "Zijia Tang",
-          "department": "",
           "time": "2024"
         }
       ],
       "High school students": [
         {
           "name": "Samuel Tong",
-          "department": "",
           "time": "2024"
         }
       ]
     },
     "graduated": {
-      "others": [
+      "Research Assistant": [
         {
           "name": "Minghao Zhou",
-          "department": "",
           "time": "2023-2026"
-        },
-        {
-          "name": "Tatyana Cook",
-          "department": "",
-          "time": "2022"
         }
+
       ],
+
       "PhD student": [
-        {
+        { 
           "name": "Yining Pan",
-          "department": "",
           "time": "2024 – 2025"
         },
         {
           "name": "Ziyang Tang",
-          "department": "",
           "time": "2021 – 2023"
         }
       ],
       "MS student": [
         {
           "name": "Zhaorui Liu",
-          "department": "",
           "time": "2021"
+        }
+      ],
+      "Undergraduate intern": [
+        {
+          "name": "Tatyana Cook",
+          "time": "2022"
         }
       ]
     }
@@ -478,7 +469,87 @@
     {
       "name": "University of Florida Cancer data commons",
       "description": "University of Florida Cancer data commons",
-      "link": "https://ufcdc-portal.org/"
+      "link": "https://qsong-github.github.io/ufcdc-contact/src"
+    },
+    {
+      "name": "DrugClaw",
+      "description": "Agentic RAG for Drug Knowledge Retrieval, Reasoning, and Evidence Synthesis",
+      "link": "https://github.com/QSong-github/DrugClaw"
+    },
+    {
+      "name": "MVCBench",
+      "description": "Multimodal Benchmark for Drug-induced Virtual Cell Phenotypes",
+      "link": "https://github.com/QSong-github/MVCBench"
+    },
+    {
+      "name": "CellPert",
+      "description": "Graph Variational learning with structure priors enables cross-dataset perturbation response prediction",
+      "link": "https://github.com/QSong-github/CellPert"
+    },
+    {
+      "name": "PHO-Agents",
+      "description": "Large Language Model–Powered Multi-Agent System for Predicting Health Outcomes",
+      "link": "https://github.com/QSong-github/PHO-Agents"
+    },
+    {
+      "name": "scDeepAPA",
+      "description": "A Deep Learning Framework for Single-Cell Alternative Polyadenylation Identification",
+      "link": "https://github.com/QSong-github/scDeepAPA"
+    },
+    {
+      "name": "MORSE",
+      "description": "Unsupervised Detection of Mitochondrial Transfer from Single-Cell mtDNA Variants",
+      "link": "https://github.com/QSong-github/MORSE"
+    },
+    {
+      "name": "MitoBayes",
+      "description": "A Hierarchical Bayesian Framework to Quantify Clone-Specific Selection Pressures",
+      "link": "https://github.com/QSong-github/MitoBayes"
+    },
+    {
+      "name": "UniD3",
+      "description": "LLM-driven Drug-Disease Dataset Construction via KG-RAG",
+      "link": "https://github.com/QSong-github/UniD3"
+    },
+    {
+      "name": "VIRSE",
+      "description": "A Variational Bayesian Framework for RNA Structural Ensemble Inference",
+      "link": "https://github.com/QSong-github/VIRSE"
+    },
+    {
+      "name": "scDrugMap",
+      "description": "A Benchmarking Framework for Foundation Models in Drug Response Prediction",
+      "link": "https://github.com/QSong-github/scDrugMap"
+    },
+    {
+      "name": "AlzCLIP",
+      "description": "Integrating Genetic and Imaging Data for Alzheimer’s Disease Diagnosis and Interpretation",
+      "link": "https://github.com/QSong-github/AlzCLIP"
+    },
+    {
+      "name": "PhenoProfiler",
+      "description": "Advancing Morphology Representations for Image-based Drug Discovery",
+      "link": "https://github.com/QSong-github/PhenoProfiler"
+    },
+    {
+      "name": "HECLIP",
+      "description": "Histology-Enhanced Contrastive Learning for Imputation of Transcriptomics Profiles",
+      "link": "https://github.com/QSong-github/HECLIP"
+    },
+    {
+      "name": "GatorST",
+      "description": "A Versatile Contrastive Meta-Learning Framework for Spatial Transcriptomic Data Analysis",
+      "link": "https://github.com/QSong-github/GatorST"
+    },
+    {
+      "name": "SpaIM",
+      "description": "Single-cell Spatial Transcriptomics Imputation via style transfer",
+      "link": "https://github.com/QSong-github/SpaIM"
+    },
+    {
+      "name": "DRMref",
+      "description": "Comprehensive reference map of drug resistance mechanisms in human cancer",
+      "link": "https://ccsm.uth.edu/DRMref/"
     },
     {
       "name": "scPerb",
@@ -552,6 +623,54 @@
     }
   ],
   "news": [
+    {
+    "date": "2026",
+    "description": "Dr. Qianqian Song received the University of Florida College of Medicine Rising Star Researcher Award in Data Science or Artificial Intelligence!"
+  },
+  {
+    "date": "2026",
+    "description": "Our manuscript 'Systematic Review of Genetic Risk in Alzheimer's Disease' is accepted by npj Systems Biology and Applications!"
+  },
+  {
+    "date": "2025",
+    "description": "Our manuscript 'GatorST: A Versatile Contrastive Meta-Learning Framework for Spatial Transcriptomic Data Analysis' is accepted by Small Methods!"
+  },
+  {
+    "date": "2025",
+    "description": "Our manuscript 'scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction' is accepted by Nature Communications!"
+  },
+  {
+    "date": "2025",
+    "description": "Our manuscript 'PhenoProfiler: Advancing Morphology Representations for Image-based Drug Discovery' is accepted by Nature Communications!"
+  },
+  {
+    "date": "2025",
+    "description": "Our manuscript 'A real world data cohort study of immune-related adverse events in patients receiving immune checkpoint inhibitor therapy: a real world data cohort study' is accepted by npj Precision Oncology!"
+  },
+  {
+    "date": "2025",
+    "description": "Our manuscript 'Integration of Genetic and Imaging Data for Alzheimer's Disease Diagnosis and Interpretation' is accepted by Advanced Science!"
+  },
+  {
+    "date": "2025",
+    "description": "Our manuscript 'Real-World Analysis of Cardiovascular Adverse Events and Risk Factors After Immune Checkpoint Inhibitor Therapy' is accepted by Cardio-Oncology!"
+  },
+  {
+    "date": "2025",
+    "description": "Our manuscript 'Large Language Models for Translational Bioinformatics and Pathology' is accepted by JCO Clinical Cancer Informatics!"
+  },
+  {
+    "date": "2025",
+    "description": "Our manuscript 'SpaIM: Single-cell Spatial Transcriptomics Imputation via Style Transfer' is accepted by Nature Communications!"
+  },
+  {
+    "date": "2025",
+    "description": "Dr. Qianqian Song received the ICIBM Distinguished Service Award!"
+  },
+  {
+    "date": "2025",
+    "description": "Our manuscript 'HECLIP: An Advanced CLIP-based model for Gene Expression Prediction from Histology Images' is accepted by Bioinformatics!"
+  },
     {
       "date": "2024",
       "description": "Our manuscript 'PCCA variant rs16957301 is a novel AKI risk genotype-specific for patients who receive ICI treatment: Real-world evidence from All of Us cohort' is accepted by European journal of Cancer!"
