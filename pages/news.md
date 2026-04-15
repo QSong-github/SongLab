@@ -4,6 +4,52 @@ layout: page
 ---
 # News
 
+* **[Feb 2026]** Dr. Qianqian Song received the University of Florida College of Medicine Rising Star Researcher Award in Data Science or Artificial Intelligence!
+
+* **[Feb 2026]** Our manuscript “Systematic Review of Genetic Risk in Alzheimer's Disease” is accepted by _npj Systems Biology and Applications_!
+
+* **[Dec 2025]** Our manuscript “GatorST: A Versatile Contrastive Meta-Learning Framework for Spatial Transcriptomic Data Analysis” is accepted by _Small Methods_!
+
+* **[Dec 2025]** Our manuscript “scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction” is accepted by _Nature Communications_!
+
+* **[Dec 2025]** Our manuscript “PhenoProfiler: Advancing Morphology Representations for Image-based Drug Discovery” is accepted by _Nature Communications_!
+
+* **[Nov 2025]** Our manuscript “A real world data cohort study of immune-related adverse events in patients receiving immune checkpoint inhibitor therapy: a real world data cohort study” is accepted by _npj Precision Oncology_!
+
+* **[Nov 2025]** Our manuscript “Integration of Genetic and Imaging Data for Alzheimer's Disease Diagnosis and Interpretation” is accepted by _Advanced Science_!
+
+* **[Nov 2025]** Our manuscript “Real-World Analysis of Cardiovascular Adverse Events and Risk Factors After Immune Checkpoint Inhibitor Therapy” is accepted by _Cardio-Oncology_!
+
+* **[Oct 2025]** Our manuscript “Large Language Models for Translational Bioinformatics and Pathology” is accepted by _JCO Clinical Cancer Informatics_!
+
+* **[Aug 2025]** Our manuscript “SpaIM: Single-cell Spatial Transcriptomics Imputation via Style Transfer” is accepted by _Nature Communications_!
+
+* **[Aug 2025]** Dr. Qianqian Song received the ICIBM Distinguished Service Award!
+
+* **[July 2025]** Our manuscript “HECLIP: An  Advanced CLIP-based model for Gene Expression Prediction from Histology Images” is accepted by _Bioinformatics_!
+
+* **[Dec 2024]** Our manuscript “PCCA variant rs16957301 is a novel AKI risk genotype-specific for patients who receive ICI treatment: Real-world evidence from All of Us cohort” is accepted by _European journal of Cancer_!
+
+* **[Nov 2024]** Our manuscript “DRMref: comprehensive reference map of drug resistance mechanisms” is accepted by _Nucleic Acids Research_!
+
+* **[Nov 2024]** Our manuscript “Gene Expression Prediction from Histology Images via Hypergraph Neural Networks” is accepted by _Briefings in Bioinformatics_!
+
+* **[Nov 2024]** Our manuscript “TrajVis: a visual clinical decision support system to translate artificial intelligence trajectory models in the precision management of chronic kidney disease” is accepted by _Journal of the American Medical Informatics Association_!
+
+* **[Sep 2024]** Our manuscript “scPerb: predict single-cell perturbation via style transfer-based variational autoencoder” is accepted by _Journal of Advanced Research_!
+
+* **[Sep 2024]** Our manuscript “xSiGra: Explainable model for single-cell spatial data elucidation” is accepted by _Briefings in Bioinformatics_!
+
+* **[Sep 2024]** Our manuscript “AntiFormer: Knowledge graph enhanced LLM for binding affinity prediction” is accepted by _Briefings in Bioinformatics_!
+
+* **[Aug 2024]** Our manuscript “DrugFormer: graph-enhanced language model to predict drug sensitivity” is accepted by _Advanced Science_!
+
+* **[July 2024]** Dr. Qianqian Song was selected as a 2024 AI2 Heal Catalyst Grant awardee!
+
+* **[July 2024]** Our manuscript “SCRN: Single-cell Gene Regulatory Network Identification in Alzheimer's Disease” is accepted by _IEEE/ACM Transactions on Computational Biology and Bioinformatics_!
+
+* **[Sep 2023]** Our manuscript “SiGra: Single-cell spatial elucidation through image-augmented graph transformer” is accepted by _Nature Communications_!
+
 * **[Sep 2023]** Our manuscript “SpaRx: Elucidate single-cell spatial heterogeneity of drug responses for personalized treatment” is accepted by _Briefings in Bioinformatics_!
 
 * **[Sep 2023]** Our manuscript “Detection of lineage-reprogramming efficiency of tumor cells in a 3D-printed tumor-on-a-chip model” is accepted by _Theranostics_!
