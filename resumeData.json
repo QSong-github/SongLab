@@ -207,25 +207,34 @@
   },
   "teams": {
     "current": {
+
+      "Postdoc Fellow": [
+        {
+          "name": "Sen Guo (Advisor)",
+          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2025-present"
+        }
+      ],
+
       "PhD student": [
         {
           "name": "Sipei Gu (Advisor)",
-          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2026 – present"
         },
         {
           "name": "Daling Shi (Advisor)",
-          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2025 – present"
         },
         {
           "name": "Jialu Liang (Advisor)",
-          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2024 – present"
         },
         {
           "name": "Qing Wang (Advisor)",
-          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2024 – present"
         },
         {
@@ -234,13 +243,7 @@
           "time": "2022 – present"
         }
       ],
-            "Postdoc Fellow": [
-        {
-          "name": "Sen Guo (Advisor)",
-          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
-          "time": "2025-present"
-        }
-      ],
+
       "Undergraduate students": [
         {
           "name": "Zijia Tang (Advisor)",
@@ -260,6 +263,7 @@
       "Research Assistant": [
         {
           "name": "Minghao Zhou (Advisor)",
+          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2023-2026"
         }
 
@@ -268,27 +272,29 @@
       "PhD student": [
         { 
           "name": "Yining Pan (Advisor)",
+          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2024 – 2025"
         },
         {
           "name": "Ziyang Tang (Co-Advisor)",
+          "department": "Computer and Information Technology, Purdue University",
           "time": "2021 – 2023"
         },
         {
           "name": "Farhad Dastmalchi (Supervisory committee member)",
-          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2024"
         }
       ],
       "MS student": [
         {
           "name": "Mengyuan Zhang (Supervisory committee member)",
-          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2024"
         },
         {
           "name": "Zhaorui Liu (Co-Advisor)",
-          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2023"
         }
       ],
