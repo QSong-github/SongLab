@@ -5,8 +5,25 @@ layout: page
 # Publication
 
 ## Methodology
+* Pan Y, Cho H, Lou Q, Zhang W, Asken B, **Song Q***, “Systematic Review of Genetic Risk in Alzheimer's Disease”. _npj Systems Biology and Applications_ (2026)
+* Wang S, Liu Y, Zhang Z, Ma Q, **Song Q***, Bian J, “GatorST: A Versatile Contrastive Meta-Learning Framework for Spatial Transcriptomic Data Analysis”, _Small Methods_ (2025) 
+* Wang Q, Pan Y, Zhou M, Tang Z, Wang Y, Wang Q, **Song Q***, “scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction”. _Nature Communications_ (2025)
+* Li B, Zhang B, Zhang C, Huang W, Wang S, Wang Q, Li M, Zhang Y, **Song Q***, “PhenoProfiler: Advancing Morphology Representations for Image-based Drug Discovery”. _Nature Communications_ (2025)
+* Li B, Tang Z, Budhkar A, Zhang T, Yang B, Su J, **Song Q***, “SpaIM: Single-cell Spatial Transcriptomics Imputation via Style Transfer.” _Nature Communications_ (2025) 
+* Wang Y, Wang Q, Zhou M, Liu Y, Zhou X, **Song Q***, “Integration of Genetic and Imaging Data for Alzheimer's Disease Diagnosis and Interpretation”. _Advanced Science_ (2025) 
+* Pan Y, Wang Y, Wang G, Su J, Topologu U, **Song Q***, “Large Language Models for Translational Bioinformatics and Pathology”. _JCO Clinical Cancer Informatics_ (2025)
+* Wang Q, Chen W, Su J, Wang G, **Song Q***, “HECLIP: An  Advanced CLIP-based model for Gene Expression Prediction from Histology Images”. _Bioinformatics_ (2025)
+* Liu X, Wang Q, Zhou M, Zhou X, **Song Q***, “DrugFormer: graph-enhanced language model to predict drug sensitivity.” _Advanced Science_ (2024)
+* Liu X, Yi J, Li T, Wen J, Kim P, **Song Q***, Zhou X, “DRMref: comprehensive reference map of drug resistance mechanisms.” _Nucleic Acids Research_ (2024)
+* Tang Z, Zhou M, Zhang K, **Song Q***, “scPerb: predict single-cell perturbation via style transfer-based variational autoencoder.” _Journal of Advanced Research_ (2024) 
+* Li B, Zhang Y, Wang Q, Zhang C, Li M, Wang G, **Song Q***, “Gene Expression Prediction from Histology Images via Hypergraph Neural Networks.” _Briefings in Bioinformatics_ (2024)
+* Wang Q, Li Y, Zhou X, **Song Q***, “AntiFormer: Knowledge graph enhanced LLM for binding affinity prediction.” _Briefings in Bioinformatics_ (2024) 
+* Zhu W, Du Z, Xu Z, Yang D, Chen M, **Song Q***, “SCRN: Single-cell Gene Regulatory Network Identification in Alzheimer's Disease.” _IEEE/ACM Transactions on Computational Biology and Bioinformatics_ (2024)
+* Li Z, Liu X, Tang Z, Zhang P, Jin N, Eadon M, **Song Q***, Chen Y, Su J. “TrajVis: a visual clinical decision support system to translate artificial intelligence trajectory models in the precision management of chronic kidney disease.” _Journal of the American Medical Informatics Association_ (2024)
+* Budhkar A, **Song Q***, Su J, Zhang X. “Demystifying the Black Box: A Survey on Explainable Artificial Intelligence (XAI) in Bioinformatics.” _Computational and Structural Biotechnology Journal_ (2024)
+* Tang Z, Zhang T, Yang B, Su J, **Song Q***, “SiGra: Single-cell spatial elucidation through image-augmented graph transformer.” _Nature Communications_ (2023)
+* Bouch RJ, Zhang J, Miller BC, Robbins CJ, Mosher TH, Li W, Krupenko SA, Nagpal R, Zhao J, Lu Y, Nikiforov MA, Song Q*, He Z. “Distinct inflammatory Th17 subsets emerge in autoimmunity and infection.” _Journal of Experimental Medicine_ (2023) 
 * Tang Z, Zhang T, Yang B, Su J, **Song Q***, “SpaRx: Elucidate single-cell spatial heterogeneity of drug responses for personalized treatment.” _Briefings in Bioinformatics_ (Accepted)
-* Chen M, Xu C, Xu Z, He Z, Su J, **Song Q***, “SCRN: Single-cell Gene Regulatory Network Identification in Alzheimer’s disease.” Under Review in _IEEE/ACM Transactions on Computational Biology and Bioinformatics_
 * Tang Z, Zhang T, Yang B, Su J, **Song Q***, “SiGra: Single-cell spatial elucidation through image-augmented graph transformer.” _Nature Communications_ (2023); 14(1),p5618.
 * Tang Z, Zhang T, **Song Q***, Su J, Yang B. “PINet: Privileged Information Improve the Interpretablity and generalization of structural MRI in Alzheimer’s Disease.” _ACM-BCB 2023_ (Accepted).
 * Tang Z, Zhang T, Yang B, Su J, **Song Q***, “spaCI: deciphering spatial cellular communications through adaptive graph model.” Briefings in Bioinformatics, (2023); bbac563.
@@ -26,6 +43,10 @@ Vulnerability and Criticality of Human Brain under Evolving Neuropathological Ev
 “TCfinder: robust tumor cell discrimination in scRNA-seq based on gene pathway activity.” Under Review in _Bioinformatics_
 
 ## Applications
+* Wang Y, Guo Y, Tan A, Zhao L, Xu S, Chen Y, Liu M, Su J, George T, Bian J, **Song Q***, “A real world data cohort study of immune-related adverse events in patients receiving immune checkpoint inhibitor therapy: a real world data cohort study”. _npj Precision Oncology_ (2025) 
+* Wang Y, Niu S, Doonan B, Guha A, Fradley M, Wu Y, Smith S, Gong Y, **Song Q***, “Real-World Analysis of Cardiovascular Adverse Events and Risk Factors After Immune Checkpoint Inhibitor Therapy”. _Cardio-Oncology_ (2025)
+* Wang Y, Chen X, Yu W, Shrugg T, Hsu F, Eadon M, Su J, **Song Q***, “PCCA variant rs16957301 is a novel AKI risk genotype-specific for patients who receive ICI treatment: Real-world evidence from All of Us cohort”. _European journal of Cancer_ (2024)
+* Liu L, Dong P, Peng A, **Song Q***, He Z, “Understanding Inflammatory Bowel Disease at Single-cell resolution.” _Computational and Structural Biotechnology Journal_ (2024)
 * Bouch RJ, Zhang J, Miller BC, Robbins CJ, Mosher TH, Li W, Krupenko SA, Nagpal R, Zhao J, Lu Y,
 Nikiforov MA, **Song Q***, He Z. “Inflammatory Th17 cells in autoimmune colitis are distinguishable from infection-induced   Th17   cells   through   serine   metabolism-dependency.” _Journal of Experimental Medicine_, 2023 Oct 2;220(10).
 * **Song Q**, O’Neill S, Pasche B, Miller L, Ruiz J, Chan M, Soike M, “Single Cell RNA Sequencing Reveals Pan-Brain Metastasis Immune Landscape.” _Communications Biology_ Jul 21;6(1):760.
@@ -70,7 +91,21 @@ endonuclease 1 Facilitated Hepatocellular Carcinoma Progression by Enhancing USP
 * Berger C, Korkut A, et.al, **Song Q**, et.al. “A comprehensive Pan-Cancer molecular study of gynecologic and breast cancers.” _Cancer Cell_ (2018); 33(4):690-705.
 
 ## Conference abstracts
-* Li Z, Liu X, Tang Z, Jin N, Eadon M, **Song Q**, Chen Y, Su J. “TrajVis: a visual clinical decision support system to translate AI/ML trajectory models in the precision management of CKD).” AMIA 2023
+* Wang Q, Pan Y, Zhou M, Wang G, **Song Q**. “A Benchmarking Framework for Foundation Models in Drug Response Prediction”, the International Conference on Intelligent Biology and Medicine (ICIBM 2025)
+* Niu S, Smith SM, Gong Y, Doonan B, Wang Y, **Song Q**. “Incidence and risk factors of cardiovascular adverse events in cancer patients receiving immune checkpoint inhibitors: a Medicare claims based cohort study”, The Society for Immunotherapy of Cancer (SITC 2025)
+* Wang Y, Shugg T, Eadon M, Su J, George T, Bian J, Smith S, Gong Y, **Song Q**. “Clinical and Genomic Investigation of Immune-Related Adverse Events”, the International Conference on Intelligent Biology and Medicine (ICIBM 2025)
+* Cox A, Nagulapally A, Ay D, **Song Q**, Liu L, Wang H, Moore A, Brown V, Zhang W, Sholler G “Targeted therapy with DFMO and immunotherapy equalizes survival in MYCN-amplified neuroblastoma: insights from genomic and network analyses”, AACR 2025
+* Wang Y, Doonan B, Smith S, Gong Y, **Song Q**, “Incidence and Risk Factors of Cardiovascular Adverse Events After Immune Checkpoint Inhibitor Therapy: Insights from a Statewide Real-World Cohort”, UFHCI Cardio-Oncology Symposium 2025
+* Obregon C, Sinclair M, Chung C, Vidovic D, Rupprecht L, Pissinis J, Pilarczyk M, Sotolongo F, Jagodnik K, Krenz T, Kobetz E, Ananda M, Cen L, Wang X, Rathinavelu X, Chalk S, Bian J, Lee J, **Song Q**, Stathias V, Schürer S, “Introducing the Florida Cancer Research (FL CARES) Network and the Platform for Accelerating Collaborative Computational Cancer Research (PAC3R).” AACR 2025
+* Tang Z, Zhou M, Zhang K, **Song Q**, “scPerb: Predict single-cell perturbation via style transfer-based variational autoencoder.” MCBIOS2025
+* Wang Y, Guo Y, Tan A, Zhao L, Xu S, Chen Y, Liu M, Su J, George T, Bian J, **Song Q**, “Risk factors and outcomes of immune-related adverse events in patients receiving immune checkpoint inhibitor therapy: a real world data cohort study”. UF Health Cancer Institute Annual Research Showcase 2025
+* Wang Q, Chen W, Li B, Meng C, *Song Q**, “HECLIP: An  Advanced CLIP-based model for Gene Expression Prediction from Histology Images”. UF Health Cancer Institute Annual Research Showcase 2025
+* Wang Y, Shugg T, Hsu F, Eadon M, Su J, George T, Bian J, **Song Q**. “Clinical and Genomic Insights into Immune-Related Adverse Events.” AMIA Summit 2025
+* Chen Y, Li X, Madhira V, Shugg T, Jalal S, Hsu F, Eadon M, Bates B, Sharafeldin N, Topaloglu U, **Song Q**, Su J. “HydraNet: a Causal AI Model for Precision Immunotherapy Balancing Survival Benefits and Severe Immune Adverse Event Risk.” AMIA 2024
+* Wang Y, Xiong C, Bian J, **Song Q**, and Su J. “Unraveling the role of CTLA-4 variants in acute kidney injury after ICI treatments.” ASCO 2024
+* Chen Y, Li X, Madhira V, Shugg T, Jalal SI, Eadon M, Bates B, Sharafeldin N, Topaloglu U, **Song Q**, Su J. “The survival benefits and the risk of severe renal injury of immune checkpoint inhibitors in patients with cancer: The real-world evidence from the National Clinical Cohort Collaborative (N3C).” ASCO 2024
+* Li B, Zhang Y, Wang Q, Zhang C, Li M, Wang G, **Song Q**. “Gene Expression Prediction from Histology Images via Hypergraph Neural Networks.” AI, Systems and Spatial Biology In Human Disease Conference 2024
+* Li Z, Liu X, Tang Z, Jin N, Eadon M, **Song Q**, Chen Y, Su J. “TrajVis: a visual clinical decision support system to translate AI/ML trajectory models in the precision management of CKD.” AMIA 2023
 * **Song Q**, Bates B, Hsu FC, Liu F, Madhira V, Mitra AK, Bergquist T, Li X, Sharafeldin N, Topaloglu U, Su J. “COVID-19 omicron variants demonstrated different virulence in infected patients with cancer: The real-world evidence from the National COVID Cohort Collaborative (N3C).” ASCO 2022
 * Sharafeldin N, Madhira V, **Song Q**, Bates B, Mitra AK, Liu F, Bergquist T, Su J, Hsu FC, Topaloglu U. “Long COVID-19 in patients with cancer: Report from the National COVID Cohort Collaborative (N3C).” ASCO 2022.
 * Mitra AK, Mukherjee U, Mazumder S, Madhira V, Bergquist T, Shao Y, Liu F, **Song Q**, Su J, Bates B, Sharafeldin N. “Major risk factors associated with severe COVID-19 outcomes in patients with multiple myeloma: Report from the National COVID-19 Cohort Collaborative (N3C).” ASCO 2022
@@ -86,13 +121,36 @@ endonuclease 1 Facilitated Hepatocellular Carcinoma Progression by Enhancing USP
 * Wu D, Su J, **Song Q**, Zhou X. “SDF1/CXCR4 regulates stiffness of bone marrow stromal cell through RhoA and Rac1 GTPases pathway to support myeloma cell proliferation in multiple myeloma.” Cancer Research 2013
 
 ## Developed tools
+* [University of Florida Cancer Data Commons](https://qsong-github.github.io/ufcdc-contact/src/): A centralized data infrastructure designed to integrate and harmonize multi-modal data, multi-model systems, and multi-ecosystem efforts to advance cancer research.
+* [DrugClaw](https://github.com/QSong-github/DrugClaw): Agentic RAG for Drug Knowledge Retrieval, Reasoning, and Evidence Synthesis.
+* [MVCBench](https://github.com/QSong-github/MVCBench): Multimodal Benchmark for Drug-induced Virtual Cell Phenotypes.
+* [CellPert](https://github.com/QSong-github/CellPert): Graph Variational learning with structure priors enables cross-dataset perturbation response prediction.
+* [PHO-Agents](https://github.com/QSong-github/PHO-Agents): Large Language Model–Powered Multi-Agent System for Predicting Health Outcomes.
+* [scDeepAPA](https://github.com/QSong-github/scDeepAPA): A Deep Learning Framework for Single-Cell Alternative Polyadenylation Identification.
+* [MORSE](https://github.com/QSong-github/MORSE): Unsupervised Detection of Mitochondrial Transfer from Single-Cell mtDNA Variants.
+* [MitoBayes](https://github.com/QSong-github/MitoBayes): A Hierarchical Bayesian Framework to Quantify Clone-Specific Selection Pressures.
+* [UniD3](https://github.com/QSong-github/UniD3): LLM-driven Drug-Disease Dataset Construction via KG-RAG.
+* [VIRSE](https://github.com/QSong-github/VIRSE): A Variational Bayesian Framework for RNA Structural Ensemble Inference.
+* [scDrugMap](https://github.com/QSong-github/scDrugMap): A Benchmarking Framework for Foundation Models in Drug Response Prediction.
+* [AlzCLIP](https://github.com/QSong-github/AlzCLIP): Integrating Genetic and Imaging Data for Alzheimer’s Disease Diagnosis and Interpretation.
+* [PhenoProfiler](https://github.com/QSong-github/PhenoProfiler): Advancing Morphology Representations for Image-based Drug Discovery.
+* [HECLIP](https://github.com/QSong-github/HECLIP): Histology-Enhanced Contrastive Learning for Imputation of Transcriptomics Profiles.
+* [GatorST](https://github.com/QSong-github/GatorST): A Versatile Contrastive Meta-Learning Framework for Spatial Transcriptomic Data Analysis.
+* [SpaIM](https://github.com/QSong-github/SpaIM): Single-cell Spatial Transcriptomics Imputation via style transfer.
+* [DRMref](https://ccsm.uth.edu/DRMref/): Comprehensive reference map of drug resistance mechanisms in human cancer.
+* [scPerb](https://github.com/QSong-github/scPerb): Predict single-cell perturbation via style transfer-based variational autoencoder.
+* [xSiGra](https://github.com/QSong-github/xSiGra): Explainable model for single-cell spatial data elucidation. 
+* [DrugFormer](https://github.com/QSong-github/DrugFormer): Graph-enhanced language model to predict drug sensitivity. 
+* [AntiFormer](https://github.com/QSong-github/AntiFormer): Knowledge graph enhanced LLM for binding affinity prediction. 
+* [HGGEP](https://github.com/QSong-github/HGGEP): Gene Expression Prediction from Histology Images via Hypergraph Neural Networks. 
 * [SpaRx](https://github.com/QSong-github/SpaRx): Elucidate spatial heterogeneity of drug sensitivity for personalized treatment. 
 * [SiGra](https://github.com/QSong-github/SiGra): Single-cell spatial elucidation through image-augmented graph transformer. 
 * [spaCI](https://github.com/QSong-github/spaCI): Deciphering spatial cellular communications through adaptive graph model. 
-* [SMGR](https://github.com/QSong-github/SMGR): a joint statistical method for integrative analysis of single-cell multi-omics data. 
+* [SMGR](https://github.com/QSong-github/SMGR): A joint statistical method for integrative analysis of single-cell multi-omics data. 
 * [BIMM](https://github.com/QSong-github/BIMM): Uncovering the dynamic effects of DEX treatment on lung cancer by integrating bioinformatic
 inference and multiscale modeling of scRNA-seq and proteomics data. 
 * [scGCN](https://github.com/QSong-github/scGCN): A Graph Convolutional Networks Algorithm for Knowledge Transfer in Single Cell Omics. 
 * [DSTG](https://github.com/QSong-github/DSTG): Deconvoluting Spatial Transcriptomics Data through Graph-based Artificial Intelligence. 
-* [scLM](https://github.com/QSong-github/scLM): automatic detection of consensus gene clusters across multiple single-cell datasets. 
-* [SPN](https://github.com/QSong-github/SPN): biological mechanism in breast cancer with different proliferation levels.
+* [scLM](https://github.com/QSong-github/scLM): Automatic detection of consensus gene clusters across multiple single-cell datasets. 
+* [SPN](https://github.com/QSong-github/SPN): Biological mechanism in breast cancer with different proliferation levels.
+* [CRISPRoffT](https://ccsm.uth.edu/CRISPRoffT): Comprehensive database of CRISPR/Cas off-targets.
