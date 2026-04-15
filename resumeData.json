@@ -209,41 +209,49 @@
     "current": {
       "PhD student": [
         {
-          "name": "Sipei Gu",
+          "name": "Sipei Gu (Advisor)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF"
           "time": "2026 – present"
         },
         {
-          "name": "Daling Shi",
+          "name": "Daling Shi (Advisor)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2025 – present"
         },
         {
-          "name": "Jialu Liang",
+          "name": "Jialu Liang (Advisor)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2024 – present"
         },
         {
-          "name": "Qing Wang",
+          "name": "Qing Wang (Advisor)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2024 – present"
         },
         {
-          "name": "Aishwarya Shishir Budhkar",
+          "name": "Aishwarya Shishir Budhkar (Co-Advisor)",
+          "department": "Indiana University Bloomington",
           "time": "2022 – present"
         }
       ],
             "Postdoc Fellow": [
         {
-          "name": "Sen Guo",
+          "name": "Sen Guo (Advisor)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2025-present"
         }
       ],
       "Undergraduate students": [
         {
-          "name": "Zijia Tang",
+          "name": "Zijia Tang (Advisor)",
+          "department": "Undergraduate student, Duke University",
           "time": "2024"
         }
       ],
       "High school students": [
         {
-          "name": "Samuel Tong",
+          "name": "Samuel Tong (Advisor)",
+          "department": "",
           "time": "2024"
         }
       ]
@@ -251,7 +259,7 @@
     "graduated": {
       "Research Assistant": [
         {
-          "name": "Minghao Zhou",
+          "name": "Minghao Zhou (Advisor)",
           "time": "2023-2026"
         }
 
@@ -259,23 +267,51 @@
 
       "PhD student": [
         { 
-          "name": "Yining Pan",
+          "name": "Yining Pan (Advisor)",
           "time": "2024 – 2025"
         },
         {
-          "name": "Ziyang Tang",
+          "name": "Ziyang Tang (Co-Advisor)",
           "time": "2021 – 2023"
+        },
+        {
+          "name": "Farhad Dastmalchi (Supervisory committee member)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2024"
         }
       ],
       "MS student": [
         {
-          "name": "Zhaorui Liu",
-          "time": "2021"
+          "name": "Mengyuan Zhang (Supervisory committee member)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2024"
+        },
+        {
+          "name": "Zhaorui Liu (Co-Advisor)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2023"
         }
       ],
-      "Undergraduate intern": [
+      
+      "others": [
         {
-          "name": "Tatyana Cook",
+          "name": "Mohammad Shafieinouri (MD-PhD Interview committee member)",
+          "department": "University of Maryland‐Baltimore",
+          "time": "2024"
+        },
+        {
+          "name": "Tatyana Cook (Advisor)",
+          "department": "Georgia Institute of Technology",
+          "time": "2022"
+        },
+        {
+          "name": "Chenhao Li (Advisor)",
+          "department": "University of Illinois Urbana-Champaign",
+          "time": "2022"
+        },
+        {
+          "name": "Zheyu Fu (Advisor)",
+          "department": "University of Illinois Urbana-Champaign",
           "time": "2022"
         }
       ]
