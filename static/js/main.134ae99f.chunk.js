@@ -1533,8 +1533,8 @@
                                       Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/PhenoProfiler.webp",
                                         style: {
-                                          width: "51%",
-                                          height: "51%",
+                                          width: "91%",
+                                          height: "91%",
                                           objectFit: "contain",
                                         },
                                       }),
@@ -1568,8 +1568,8 @@
                                       Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/SpaIM.webp",
                                         style: {
-                                          width: "51%",
-                                          height: "51%",
+                                          width: "75%",
+                                          height: "75%",
                                           objectFit: "contain",
                                         },
                                       }),
