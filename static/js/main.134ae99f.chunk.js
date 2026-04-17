@@ -42,8 +42,14 @@
                     a = this.props.data.uf_profile;
                   return Object(x.jsxs)("header", {
                     id: "home",
+                     style: {
+                        backgroundImage: "url('/SongLab/images/home_background.svg')",
+                        backgroundSize: "cover",
+                        backgroundPosition: "center",
+                        backgroundRepeat: "no-repeat",
+                      },
                     children: [
-                      Object(x.jsx)(u.a, { type: "circle", bg: !0 }),
+                     // Object(x.jsx)(u.a, { type: "circle", bg: !0 }),
                       Object(x.jsxs)("nav", {
                         id: "nav-wrap",
                         children: [
@@ -1330,6 +1336,9 @@
                   });
                   return Object(x.jsx)("section", {
                     id: "software-tools",
+                    style: {
+                      backgroundColor: "#d1fae5",
+                    },
                     children: Object(x.jsx)(g.a, {
                       left: !0,
                       duration: 1300,
@@ -1518,10 +1527,10 @@
                                   backgroundImage:
                                     "url('/SongLab/images/carousel_BG2.avif')",
                                   backgroundSize: "cover",
-                                  backgroundPosition: "center",
-                                  backgroundRepeat: "no-repeat",
+                                 // backgroundPosition: "center",
+                                  //backgroundRepeat: "no-repeat",
                                 },
-
+                                "backgroundSize", "900px 510px",
                               ),
                               children: Object(x.jsxs)(E.Carousel, {
                                 autoPlay: !0,
@@ -1535,7 +1544,7 @@
                                         src: "/SongLab/images/research/PhenoProfiler.webp",
                                         style: {
                                           width: "91%",
-                                          height: "90%",
+                                          height: "150%",
                                           objectFit: "contain",
                                         },
                                       }),
