@@ -1580,7 +1580,7 @@
                                       Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/SpaIM.webp",
                                         style: {
-                                          width: "90%",
+                                          width: "60%",
                                           height: "auto",
                                           objectFit: "contain",
                                         },
@@ -1597,7 +1597,7 @@
                                       Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/DRMref.jpeg",
                                         style: {
-                                          width: "90%",
+                                          width: "60%",
                                           height: "auto",
                                           objectFit: "contain",
                                         },
@@ -1614,7 +1614,7 @@
                                       Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/SiGra.png",
                                         style: {
-                                          width: "90%",
+                                          width: "60%",
                                           height: "auto",
                                           objectFit: "contain",
                                         },
