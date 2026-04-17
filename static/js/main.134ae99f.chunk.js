@@ -1535,7 +1535,7 @@
                                         src: "/SongLab/images/research/PhenoProfiler.webp",
                                         style: {
                                           width: "91%",
-                                          height: "auto",
+                                          height: "90%",
                                           objectFit: "contain",
                                         },
                                       }),
@@ -1551,7 +1551,7 @@
                                       Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/scDrugMap.webp",
                                         style: {
-                                          width: "75%",
+                                          width: "90%",
                                           height: "auto",
                                           objectFit: "contain",
                                         },
@@ -1622,7 +1622,7 @@
                                         src: "/SongLab/images/research/hypergraphNN.png",
                                         style: {
                                           width: "90%",
-                                          height: "auto",
+                                          height: "90%",
                                           objectFit: "contain",
                                         },
                                       }),
