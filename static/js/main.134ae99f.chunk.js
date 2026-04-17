@@ -1251,9 +1251,11 @@
               {
                 key: "render",
                 value: function () {
-                  if (!this.props.softwareTools) return null;
+                  //if (!this.props.softwareTools) return null;
+                  var tools = this.props.softwareTools || [];
                   var e = this.getDisplayList(
-                    this.props.softwareTools,
+                    //this.props.softwareTools,
+                    tools,
                     this.state.showAll,
                   ).map(function (e) {
                     return Object(x.jsxs)(
@@ -1558,7 +1560,7 @@
                                  Object(x.jsxs)("div", {
                                     children: [
                                       Object(x.jsx)("img", {
-                                        src: "/SongLab/images/research/scDrugMap.webp",
+                                        src: "/SongLab/images/research/scDrugMap.png",
                                         style: {
                                           width: "90%",
                                           height: "auto",
