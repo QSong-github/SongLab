@@ -1337,7 +1337,7 @@
                   return Object(x.jsx)("section", {
                     id: "software-tools",
                     style: {
-                      backgroundColor: "#d1fae5",
+                      backgroundColor: "#e6f4ea",
                     },
                     children: Object(x.jsx)(g.a, {
                       left: !0,
@@ -1544,7 +1544,7 @@
                                         src: "/SongLab/images/research/PhenoProfiler.webp",
                                         style: {
                                           width: "91%",
-                                          height: "150%",
+                                          height: "auto",
                                           objectFit: "contain",
                                         },
                                       }),
