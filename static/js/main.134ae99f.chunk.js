@@ -1518,9 +1518,10 @@
                                   backgroundImage:
                                     "url('/SongLab/images/carousel_BG2.avif')",
                                   backgroundSize: "cover",
+                                  backgroundPosition: "center",
+                                  backgroundRepeat: "no-repeat",
                                 },
-                                "backgroundSize",
-                                "900px 510px",
+
                               ),
                               children: Object(x.jsxs)(E.Carousel, {
                                 autoPlay: !0,
@@ -1534,7 +1535,7 @@
                                         src: "/SongLab/images/research/PhenoProfiler.webp",
                                         style: {
                                           width: "91%",
-                                          height: "91%",
+                                          height: "auto",
                                           objectFit: "contain",
                                         },
                                       }),
@@ -1550,8 +1551,8 @@
                                       Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/scDrugMap.webp",
                                         style: {
-                                          width: "51%",
-                                          height: "51%",
+                                          width: "75%",
+                                          height: "auto",
                                           objectFit: "contain",
                                         },
                                       }),
@@ -1568,8 +1569,8 @@
                                       Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/SpaIM.webp",
                                         style: {
-                                          width: "75%",
-                                          height: "75%",
+                                          width: "90%",
+                                          height: "auto",
                                           objectFit: "contain",
                                         },
                                       }),
@@ -1585,8 +1586,8 @@
                                       Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/DRMref.jpeg",
                                         style: {
-                                          width: "51%",
-                                          height: "51%",
+                                          width: "90%",
+                                          height: "auto",
                                           objectFit: "contain",
                                         },
                                       }),
@@ -1602,8 +1603,8 @@
                                       Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/SiGra.png",
                                         style: {
-                                          width: "53%",
-                                          height: "53%",
+                                          width: "90%",
+                                          height: "auto",
                                           objectFit: "contain",
                                         },
                                       }),
@@ -1620,8 +1621,8 @@
                                       Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/hypergraphNN.png",
                                         style: {
-                                          width: "68%",
-                                          height: "68%",
+                                          width: "90%",
+                                          height: "auto",
                                           objectFit: "contain",
                                         },
                                       }),
@@ -1638,7 +1639,7 @@
                                         src: "/SongLab/images/research/COVID.jpg",
                                         style: {
                                           width: "90%",
-                                          height: "90%",
+                                          height: "auto",
                                           objectFit: "contain",
                                         },
                                       }),
@@ -1654,8 +1655,8 @@
                                       Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/spaCI.png",
                                         style: {
-                                          width: "70%",
-                                          height: "70%",
+                                          width: "90%",
+                                          height: "auto",
                                           objectFit: "contain",
                                         },
                                       }),
@@ -1671,8 +1672,8 @@
                                       Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/scGCN.jpg",
                                         style: {
-                                          width: "89%",
-                                          height: "89%",
+                                          width: "90%",
+                                          height: "auto",
                                           objectFit: "contain",
                                         },
                                       }),
