@@ -243,15 +243,8 @@
           "time": "2025 – present"
         }
 
-      ],
-
-      "Undergraduate students": [
-        {
-          "name": "Zijia Tang (Advisor)",
-          "department": "Computer Science, Duke University",
-          "time": "2024"
-        }
       ]
+
       
     },
     "graduated": {
@@ -315,6 +308,11 @@
           "name": "Zheyu Fu (Advisor)",
           "department": "University of Illinois Urbana-Champaign",
           "time": "2022"
+        },
+        {
+          "name": "Zijia Tang (Advisor)",
+          "department": "Computer Science, Duke University",
+          "time": "2024"
         }
       ]
     }
