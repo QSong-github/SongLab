@@ -4,21 +4,21 @@
     "labName": "Song Lab",
     "description": "Welcome to Song Lab",
     "image": "Qianqian_Song.jpg",
-    "bio": "Associate Professor & Lead of Digital Health Center\nBioinformatics, Biomedical Informatics\n School of Applied and Creative Computing\nPurdue University",
+    "bio": "Qianqian Song, Ph.D.\nAssociate Professor\nApplied and Creative Computing\n Lead, Polytechnic Digital Health Innovation Center (PDHIC)\nPurdue University",
     "contactmessage": "Feel free to contact me via email.",
     "email": "song1081@purdue.edu",
     "phone": "352-627-9467",
     "github": "https://github.com/QSong-github",
     "project": "https://github.com/QSong-github",
     "linkedin": "https://www.linkedin.com/in/qianqian-song-4501b56b/",
-    "uf_profile": "https://hobi.med.ufl.edu/profile/song-qianqian/",
+    "Purdue_profile": "https://polytechnic.purdue.edu/profile/song1081",
     "address": {
-      "street": "1889 Museum Rd, Suite 7000.",
-      "city": "Gainesville",
-      "state": "FL",
-      "zip": "32611"
+      "street": "401 N Grant Street,",
+      "city": "West Lafayette",
+      "state": "IN",
+      "zip": "47907"
     },
-    "website": "https://hobi.med.ufl.edu/profile/song-qianqian/",
+    "website": "https://polytechnic.purdue.edu/profile/song1081",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
@@ -208,15 +208,15 @@
   "teams": {
     "current": {
 
-      "Postdoc Fellow": [
-        {
+  "Postdoc Fellow": [
+      {
           "name": "Sen Guo (Advisor)",
           "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2025 – present"
-        }
+       }
       ],
 
-      "PhD student": [
+      "Master student": [
         {
           "name": "Sipei Gu (Advisor)",
           "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
@@ -236,12 +236,8 @@
           "name": "Qing Wang (Advisor)",
           "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2024 – present"
-        },
-        {
-          "name": "Aishwarya Shishir Budhkar (Co-Advisor)",
-          "department": "Indiana University Bloomington",
-          "time": "2022 – present"
         }
+
       ],
 
       "Undergraduate students": [
@@ -693,7 +689,7 @@
   "news": [
   {
     "date": "2026",
-    "description": "Dr. Qianqian Song joined the Purdue University School of Applied and Creative Computing as an tenured Associate Professor! Dr. Song will lead Purdue’s Digital Health Center!"
+    "description": "Dr. Song joined the Purdue University School of Applied and Creative Computing as a tenured Associate Professor! Dr. Song will lead Purdue’s Digital Health Center!"
   },
   {
     "date": "2026",
@@ -721,7 +717,7 @@
   },
     {
     "date": "2026",
-    "description": "Dr. Qianqian Song received the University of Florida College of Medicine Rising Star Researcher Award in Data Science or Artificial Intelligence!"
+    "description": "Dr. Song received the University of Florida College of Medicine Rising Star Researcher Award in Data Science or Artificial Intelligence!"
   },
   {
     "date": "2026",
@@ -761,7 +757,7 @@
   },
   {
     "date": "2025",
-    "description": "Dr. Qianqian Song received the ICIBM Distinguished Service Award!"
+    "description": "Dr. Song received the ICIBM Distinguished Service Award!"
   },
   {
     "date": "2025",
@@ -777,7 +773,7 @@
     },
     {
       "date": "2024",
-      "description": "Dr. Qianqian Song is invited to present at the Gulf Coast Consortia (GCC) Single Cell Omics Symposium"
+      "description": "Dr. Song is invited to present at the Gulf Coast Consortia (GCC) Single Cell Omics Symposium"
     },
     {
       "date": "2024",
@@ -785,7 +781,7 @@
     },
     {
       "date": "2024",
-      "description": "Dr. Qianqian Song is invited to present at International Conference on Intelligent Biology and Medicine (ICIBM 2024)"
+      "description": "Dr. Song is invited to present at International Conference on Intelligent Biology and Medicine (ICIBM 2024)"
     },
     {
       "date": "2024",
@@ -793,7 +789,7 @@
     },
     {
       "date": "2024",
-      "description": "Dr. Qianqian Song is invited to University of Florida Department of Health Outcomes and Biomedical Informatics/CTSI Design Studio!"
+      "description": "Dr. Song is invited to University of Florida Department of Health Outcomes and Biomedical Informatics/CTSI Design Studio!"
     },
     {
       "date": "2024",
@@ -801,7 +797,7 @@
     },
     {
       "date": "2024",
-      "description": "Dr. Qianqian Song is invited to present at 9th Symposium of Science, Engineering & Biomedicine & The 5th Symposium of Humanities and Social Science!"
+      "description": "Dr. Song is invited to present at 9th Symposium of Science, Engineering & Biomedicine & The 5th Symposium of Humanities and Social Science!"
     },
     {
       "date": "2024",
@@ -813,7 +809,7 @@
     },
     {
       "date": "2024",
-      "description": "Dr. Qianqian Song is invited to present at 2024 AI, Systems and Spatial Biology in Human Disease Conference at Mayo Clinic!"
+      "description": "Dr. Song is invited to present at 2024 AI, Systems and Spatial Biology in Human Disease Conference at Mayo Clinic!"
     },
     {
       "date": "2024",
@@ -825,7 +821,7 @@
     },
     {
       "date": "2024",
-      "description": "Dr. Qianqian Song is invited to present at Florida Academic Cancer Center Alliance (FACCA) Annual Retreat!"
+      "description": "Dr. Song is invited to present at Florida Academic Cancer Center Alliance (FACCA) Annual Retreat!"
     },
     {
       "date": "2024",
@@ -833,7 +829,7 @@
     },
     {
       "date": "2024",
-      "description": "Dr. Qianqian Song is invited to present at the upcoming 20th Annual Meeting of the MidSouth Computational Biology and Bioinformatics Society (MCBIOS)!"
+      "description": "Dr. Song is invited to present at the upcoming 20th Annual Meeting of the MidSouth Computational Biology and Bioinformatics Society (MCBIOS)!"
     },
     {
       "date": "2024",
@@ -845,7 +841,7 @@
     },
     {
       "date": "2024",
-      "description": "Dr. Qianqian Song is invited to present at the Drug Discovery and Development (DDD) Seminar and Health Outcome Research and Policy (HORP) Seminar in Auburn University!"
+      "description": "Dr. Song is invited to present at the Drug Discovery and Development (DDD) Seminar and Health Outcome Research and Policy (HORP) Seminar in Auburn University!"
     },
     {
       "date": "2024",
@@ -861,7 +857,7 @@
     },
     {
       "date": "2023",
-      "description": "Dr. Qianqian Song is invited to present at the International Conference on Intelligent Biology and Medicine (ICIBM)!"
+      "description": "Dr. Song is invited to present at the International Conference on Intelligent Biology and Medicine (ICIBM)!"
     },
     {
       "date": "2023",
@@ -869,7 +865,7 @@
     },
     {
       "date": "2023",
-      "description": "Dr. Qianqian Song is invited to present at the 2023 WFBCCC CGM retreat!"
+      "description": "Dr. Song is invited to present at the 2023 WFBCCC CGM retreat!"
     },
     {
       "date": "2023",
@@ -877,7 +873,7 @@
     },
     {
       "date": "2023",
-      "description": "Dr. Qianqian Song is invited to present at the 2023 Great Lakes Bioinformatics Conference (GLBIO)!"
+      "description": "Dr. Song is invited to present at the 2023 Great Lakes Bioinformatics Conference (GLBIO)!"
     },
     {
       "date": "Sep 2023",
@@ -889,7 +885,7 @@
     },
     {
       "date": "Sep 2023",
-      "description": "Dr. Qianqian Song is invited to present at the Department of Biology, Wake Forest University"
+      "description": "Dr. Song is invited to present at the Department of Biology, Wake Forest University"
     },
     {
       "date": "Aug 2023",
@@ -897,21 +893,21 @@
     },
     {
       "date": "Aug 2023",
-      "description": "Dr. Qianqian Song is invited as reviewer for the GenBio workshop at NeurIPS 2023",
+      "description": "Dr. Song is invited as reviewer for the GenBio workshop at NeurIPS 2023",
       "additionalInfo": "https://genbio-workshop.github.io/index.html#"
     },
     {
       "date": "Aug 2023",
-      "description": "Dr. Qianqian Song is invited as reviewer for the AI4Science workshop at NeurIPS 2023",
+      "description": "Dr. Song is invited as reviewer for the AI4Science workshop at NeurIPS 2023",
       "additionalInfo": "https://ai4sciencecommunity.github.io/neurips23.html"
     },
     {
       "date": "Aug 2023",
-      "description": "Dr. Qianqian Song attended the MCBIOS 2023 annual board retreat! Welcome to MCBIOS 2024 in Atlanta!"
+      "description": "Dr. Song attended the MCBIOS 2023 annual board retreat! Welcome to MCBIOS 2024 in Atlanta!"
     },
     {
       "date": "Aug 2023",
-      "description": "Dr. Qianqian Song is invited to present at the NCI-FNL’s Clinical and Translational Serology Task Force (CTTF) monthly meeting"
+      "description": "Dr. Song is invited to present at the NCI-FNL’s Clinical and Translational Serology Task Force (CTTF) monthly meeting"
     },
     {
       "date": "Aug 2023",
@@ -919,11 +915,11 @@
     },
     {
       "date": "Aug 2023",
-      "description": "Dr. Qianqian Song is invited to present at the Biocompare Bench Tip Webinar"
+      "description": "Dr. Song is invited to present at the Biocompare Bench Tip Webinar"
     },
     {
       "date": "Aug 2023",
-      "description": "Dr. Qianqian Song is invited to present at the 4th Edition of International Precision Medicine Conference"
+      "description": "Dr. Song is invited to present at the 4th Edition of International Precision Medicine Conference"
     },
     {
       "date": "July 2023",
@@ -943,7 +939,7 @@
     },
     {
       "date": "July 2023",
-      "description": "Dr. Qianqian Song is invited to present at the 8th edition of International Webinar on Aging and Rejuvenation"
+      "description": "Dr. Song is invited to present at the 8th edition of International Webinar on Aging and Rejuvenation"
     },
     {
       "date": "July 2023",
@@ -951,11 +947,11 @@
     },
     {
       "date": "July 2023",
-      "description": "Dr. Qianqian Song is invited as the Guest Editor in Mathematical Biosciences and Engineering"
+      "description": "Dr. Song is invited as the Guest Editor in Mathematical Biosciences and Engineering"
     },
     {
       "date": "Jun 2023",
-      "description": "Dr. Qianqian Song is elected as the Board Member of the MidSouth Computational Biology and Bioinformatics Society (MCIBIOS)"
+      "description": "Dr. Song is elected as the Board Member of the MidSouth Computational Biology and Bioinformatics Society (MCIBIOS)"
     },
     {
       "date": "Jun 2023",
