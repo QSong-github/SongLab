@@ -1562,8 +1562,8 @@
                                       Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/VIRSE.jpeg",
                                         style: {
-                                          width: "60%",
-                                          height: "auto",
+                                          width: "90%",
+                                          height: "70%",
                                           objectFit: "contain",
                                         },
                                       }),
