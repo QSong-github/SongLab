@@ -211,17 +211,13 @@
   "Postdoc Fellow": [
       {
           "name": "Sen Guo (Advisor)",
-          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "department": "Joint",
           "time": "2025 – present"
        }
       ],
 
-      "Master student": [
-        {
-          "name": "Sipei Gu (Advisor)",
-          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
-          "time": "2026 – present"
-        },
+      "PhD student": [
+
         {
           "name": "Daling Shi (Advisor)",
           "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
@@ -240,23 +236,26 @@
 
       ],
 
+      "Master student": [
+        {
+          "name": "Sipei Gu (Advisor)",
+          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2025 – present"
+        }
+
+      ],
+
       "Undergraduate students": [
         {
           "name": "Zijia Tang (Advisor)",
           "department": "Computer Science, Duke University",
           "time": "2024"
         }
-      ],
-      "High school students": [
-        {
-          "name": "Samuel Tong (Advisor)",
-          "department": "",
-          "time": "2024"
-        }
       ]
+      
     },
     "graduated": {
-      "Research Assistant": [
+      "Software engineer": [
         {
           "name": "Minghao Zhou (Advisor)",
           "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
@@ -282,6 +281,7 @@
           "time": "2024"
         }
       ],
+
       "MS student": [
         {
           "name": "Mengyuan Zhang (Supervisory committee member)",
