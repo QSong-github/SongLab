@@ -1543,7 +1543,7 @@
                                     Object(x.jsxs)("div", {
                                     children: [
                                       Object(x.jsx)("img", {
-                                        src: "/SongLab/images/research/shapeRNA.jepg",
+                                        src: "/SongLab/images/research/shapeRNA.jpeg",
                                         style: {
                                           width: "91%",
                                           height: "auto",
@@ -1560,7 +1560,7 @@
                                     Object(x.jsxs)("div", {
                                     children: [
                                       Object(x.jsx)("img", {
-                                        src: "/SongLab/images/research/VIRSE.jepg",
+                                        src: "/SongLab/images/research/VIRSE.jpeg",
                                         style: {
                                           width: "91%",
                                           height: "auto",
