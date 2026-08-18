@@ -1543,6 +1543,40 @@
                                     Object(x.jsxs)("div", {
                                     children: [
                                       Object(x.jsx)("img", {
+                                        src: "/SongLab/images/research/shapeRNA.jepg",
+                                        style: {
+                                          width: "91%",
+                                          height: "auto",
+                                          objectFit: "contain",
+                                        },
+                                      }),
+                                      Object(x.jsx)("p", {
+                                        className: "legend",
+                                        children:
+                                          "ShapeRNA: an integrated web server for RNA secondary structure, ensemble, and functional analysis, Nucleic Acids Research (2026)",
+                                      }),
+                                    ],
+                                  }),
+                                    Object(x.jsxs)("div", {
+                                    children: [
+                                      Object(x.jsx)("img", {
+                                        src: "/SongLab/images/research/VIRSE.jepg",
+                                        style: {
+                                          width: "91%",
+                                          height: "auto",
+                                          objectFit: "contain",
+                                        },
+                                      }),
+                                      Object(x.jsx)("p", {
+                                        className: "legend",
+                                        children:
+                                          "VIRSE: a variational Bayesian framework for RNA structural ensemble inference, Briefings in Bioinformatics (2026)",
+                                      }),
+                                    ],
+                                  }),
+                                    Object(x.jsxs)("div", {
+                                    children: [
+                                      Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/PhenoProfiler.webp",
                                         style: {
                                           width: "91%",
