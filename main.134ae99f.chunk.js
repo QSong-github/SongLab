@@ -1563,6 +1563,7 @@
                                         src: "/SongLab/images/research/VIRSE.jpeg",
                                         style: {
                                           width: "50%",
+                                          maxHeight: "70vh",
                                           height: "auto",
                                           objectFit: "contain",
                                         },
