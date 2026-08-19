@@ -1626,25 +1626,8 @@
                                       }),
                                     ],
                                   }),
-                                  Object(x.jsxs)("div", {
-                                    children: [
-                                      Object(x.jsx)("img", {
-                                        src: "/SongLab/images/research/SiGra.png",
-                                        style: {
-                                          width: "60%",
-                                          height: "auto",
-                                          objectFit: "contain",
-                                        },
-                                      }),
-                                      Object(x.jsx)("p", {
-                                        className: "legend",
-                                        children:
-                                          "SiGra: single-cell spatial elucidation through an image-augmented graph transformer, Nature Communications (2023)",
-                                      }),
-                                    ],
-                                  }),
 
-                                  Object(x.jsxs)("div", {
+                                   Object(x.jsxs)("div", {
                                     children: [
                                       Object(x.jsx)("img", {
                                         src: "/SongLab/images/research/hypergraphNN.png",
@@ -1661,12 +1644,13 @@
                                       }),
                                     ],
                                   }),
+
                                   Object(x.jsxs)("div", {
                                     children: [
                                       Object(x.jsx)("img", {
-                                        src: "/SongLab/images/research/COVID.jpg",
+                                        src: "/SongLab/images/research/SiGra.png",
                                         style: {
-                                          width: "90%",
+                                          width: "60%",
                                           height: "auto",
                                           objectFit: "contain",
                                         },
@@ -1674,7 +1658,7 @@
                                       Object(x.jsx)("p", {
                                         className: "legend",
                                         children:
-                                          "Risk and Outcome of Breakthrough COVID-19 Infections in Vaccinated Patients With Cancer: Real-World Evidence From the National COVID Cohort Collaborative, Journal of Clinical Oncology (2022)",
+                                          "SiGra: single-cell spatial elucidation through an image-augmented graph transformer, Nature Communications (2023)",
                                       }),
                                     ],
                                   }),
@@ -1695,6 +1679,25 @@
                                       }),
                                     ],
                                   }),
+                                 
+                                  Object(x.jsxs)("div", {
+                                    children: [
+                                      Object(x.jsx)("img", {
+                                        src: "/SongLab/images/research/COVID.jpg",
+                                        style: {
+                                          width: "90%",
+                                          height: "auto",
+                                          objectFit: "contain",
+                                        },
+                                      }),
+                                      Object(x.jsx)("p", {
+                                        className: "legend",
+                                        children:
+                                          "Risk and Outcome of Breakthrough COVID-19 Infections in Vaccinated Patients With Cancer: Real-World Evidence From the National COVID Cohort Collaborative, Journal of Clinical Oncology (2022)",
+                                      }),
+                                    ],
+                                  }),
+                                  
                                   Object(x.jsxs)("div", {
                                     children: [
                                       Object(x.jsx)("img", {
