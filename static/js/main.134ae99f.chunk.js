@@ -39,7 +39,7 @@
                     t = this.props.data.linkedin,
                     s = (this.props.data.name, this.props.data.labName),
                     n = this.props.data.description,
-                    a = this.props.data.uf_profile;
+                    a = this.props.data.purdue_profile;
                   return Object(x.jsxs)("header", {
                     id: "home",
                      style: {
@@ -163,7 +163,7 @@
                                       Object(x.jsx)("i", {
                                         className: "fa fa-book",
                                       }),
-                                      " UF profile",
+                                      " Purdue profile",
                                     ],
                                   }),
                                   Object(x.jsxs)("a", {
