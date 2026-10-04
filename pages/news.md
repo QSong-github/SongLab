@@ -4,6 +4,12 @@ layout: page
 ---
 # News
 
+* **[Aug 2026]** Dr. Qianqian Song joined Purdue University as an Associate Professor with tenure in the School of Applied and Creative Computing, Purdue Polytechnic.
+
+* **[2026]** Dr. Song serves as Director of the Purdue Polytechnic Digital Health Innovation Center (PDHIC).
+
+* **[2026]** Dr. Song received Springer Nature Editor of Distinction Awards.
+
 * **[Feb 2026]** Dr. Qianqian Song received the University of Florida College of Medicine Rising Star Researcher Award in Data Science or Artificial Intelligence!
 
 * **[Feb 2026]** Our manuscript “Systematic Review of Genetic Risk in Alzheimer's Disease” is accepted by _npj Systems Biology and Applications_!

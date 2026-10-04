@@ -2,34 +2,19 @@
 title: Opening
 layout: page
 ---
-# Opening
+# Join the Song Lab
 
-Multiple funded PhD and Postdoc positions (全奖博士及博士后) in Bioinformatics field are available at the Department of Health Outcomes and Biomedical Informatics, 
-College of Medicine, University of Florida. Candidates will work with Dr. Song. Our research primarily focus on data mining and the application of ML/AI models to address bioinformatics problems.
+The Song Lab is based in the School of Applied and Creative Computing at Purdue University’s Polytechnic Institute in West Lafayette, Indiana. Our research spans multimodal AI, bioinformatics, drug discovery, spatial and single-cell omics, and precision medicine.
 
-Requirements for PhD candidates:    
-1. Strong passion and motivation for research with a desire to solve practical bioinformatics problems
-2. Undergraduate or Master students in bioinformatics, biostatistics, or related majors
-3. Minimum language requirement (TOEFL/IELTS) by university; GRE is not required
-4. Programming skills with Python/R
+Prospective PhD students, postdoctoral researchers, and research collaborators are welcome to inquire about opportunities. Please contact [Dr. Qianqian Song](mailto:song1081@purdue.edu) to discuss current availability, funding, and fit.
 
-Requirements for Postdocs:
-1. Strong passion and motivation for research with a desire to solve bioinformatics and biomedical problems
-2. Ph.D. degree in bioinformatics, computational biology, or related majors
-3. Programming skills in Python/R/C
-4. Research experience in bioinformatics (e.g. NGS data analysis, multi-omics, GWAS, etc.) are preferred
-    
-Contact Information: Interested individuals are encouraged to contact Dr. Song (qianqian.song.66@gmail.com) with the following information:
+Relevant backgrounds include bioinformatics, computer science, applied mathematics, statistics, computational biology, and related fields. Experience with Python or R and an interest in biomedical research are particularly relevant.
 
-1. An updated CV
-2. Transcripts if applicable
-3. Research publications if applicable
-4. Email subject “PhD/Postdoc Application + Preferred Start Time”
+Please include:
 
-## University of Florida
+1. An updated CV.
+2. A brief description of your research interests and relevant experience.
+3. Research publications, if applicable.
+4. Your preferred start date.
 
-Overall Ranking: #5 among public universities; #29 among all universities (USNews 2022)
-
-UF has a university-wide AI Initiative with a $70 million partnership with NVIDIA that established the world’s fastest AI supercomputer in higher education: HiperGator AI with 140 NVIDIA DGX™ A100 systems (1,120 A100 GPU). UF is among the most comprehensive research universities with 16 colleges, over 100 departments, over 5000 faculty, and near $1 Billion annual research expenditure.
-
-Location: UF is located in Gainesville, named the most livable city in US, less than 2 hours away from major attractions (e.g., Disney World, Universal Studio) and beach.
+Use the email subject “Song Lab Inquiry — PhD/Postdoc — Preferred Start Date.”
