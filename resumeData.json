@@ -226,14 +226,6 @@
           "time": "Current"
         },
         {
-          "name": "Daling Shi (Advisor)",
-          "time": "2025 – present"
-        },
-        {
-          "name": "Jialu Liang (Advisor)",
-          "time": "2024 – present"
-        },
-        {
           "name": "Qing Wang (Advisor)",
           "time": "2024 – present"
         }
@@ -254,6 +246,14 @@
         }
       ],
       "PhD student": [
+        {
+          "name": "Daling Shi (Advisor)",
+          "time": "2025 – 2026"
+        },
+        {
+          "name": "Jialu Liang (Advisor)",
+          "time": "2024 – 2026"
+        },
         {
           "name": "Yining Pan (Advisor)",
           "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
