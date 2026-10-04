@@ -830,7 +830,7 @@
                                   }),
                                   Object(x.jsxs)("p", {
                                     style: { margin: "5px 0" },
-                                    children: ["Time: ", e.time],
+                                    children: [e.startTime ? "Started: " : "Time: ", e.time],
                                   }),
                                 ],
                               }),
@@ -896,7 +896,7 @@
                                   Object(x.jsx)("div", {
                                     className: "team-section-header",
                                     children: Object(x.jsx)("h4", {
-                                      children: "Current Students",
+                                      children: "Current Lab Member",
                                     }),
                                   }),
                                   Object(x.jsx)("div", { children: t }),
