@@ -822,15 +822,15 @@
                                       fontStyle: "italic",
                                       whiteSpace: "nowrap",
                                     },
-                                    children: e.role,
+                                    children: e.startTime ? e.role + ", " + e.startTime : e.role,
                                   }),
-                                  Object(x.jsxs)("p", {
+                                  !e.startTime && Object(x.jsxs)("p", {
                                     style: { margin: "5px 0" },
                                     children: ["Department: ", e.department],
                                   }),
-                                  Object(x.jsxs)("p", {
+                                  !e.startTime && Object(x.jsxs)("p", {
                                     style: { margin: "5px 0" },
-                                    children: [e.startTime ? "Started: " : "Time: ", e.time],
+                                    children: ["Time: ", e.time],
                                   }),
                                 ],
                               }),
