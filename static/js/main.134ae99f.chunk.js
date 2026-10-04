@@ -1747,6 +1747,7 @@
                                           style: {
                                             color: "black",
                                             fontWeight: "bold",
+                                            fontSize: "20px",
                                             marginBottom: "15px",
                                           },
                                           children: e.title,
