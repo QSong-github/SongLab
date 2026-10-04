@@ -824,9 +824,9 @@
                                     },
                                     children: e.startTime ? e.role + ", " + e.startTime : e.role,
                                   }),
-                                  !e.startTime && Object(x.jsxs)("p", {
+                                  !e.startTime && e.department && Object(x.jsx)("p", {
                                     style: { margin: "5px 0" },
-                                    children: ["Department: ", e.department],
+                                    children: e.department,
                                   }),
                                   !e.startTime && Object(x.jsxs)("p", {
                                     style: { margin: "5px 0" },
