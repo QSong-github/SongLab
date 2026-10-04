@@ -1,9 +1,9 @@
 # main text of home
 name: Qianqian Song
-bio: Assistant Professor & Director of Translational Bioinformatics <br /> Bioinformatics, Biomedical Informatics <br /> Department of Health Outcomes and Biomedical Informatics <br /> College of Medicine, University of Florida
+bio: Associate Professor with tenure <br /> School of Applied and Creative Computing <br /> Purdue Polytechnic, Purdue University
 
 # twitter summary info
-description: All about Qianqian Song.
+description: Song Lab at Purdue University — multimodal AI for biomedical discovery and precision medicine.
 
 # if it's an external image, update below for true
 # better with square images
@@ -51,7 +51,7 @@ github: QSong-github
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: qianqian.song.66@gmail.com
+email: song1081@purdue.edu
 googlescholar: wIYviKIAAAAJ
 # orcid: 0000-0002-4662-4615
 
@@ -59,7 +59,7 @@ googlescholar: wIYviKIAAAAJ
 authors:
     Qianqian_Song:
         name: Qianqian Song
-        bio: Assistant Professor <br /> Bioinformatics, Biomedical Informatics <br /> Department of Health Outcomes and Biomedical Informatics <br /> College of Medicine, University of Florida
+        bio: Associate Professor with tenure <br /> School of Applied and Creative Computing <br /> Purdue University
         external-image: false
         picture: assets/images/Qianqian_Song.jpg
         twitter: Sophie_QSong
