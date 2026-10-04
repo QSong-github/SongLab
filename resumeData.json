@@ -242,71 +242,60 @@
         {
           "name": "Minghao Zhou (Advisor)",
           "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
-          "time": "2023-2026"
-        }
-      ],
-      "PhD student": [
-        {
-          "name": "Daling Shi (Advisor)",
-          "time": "2025 – 2026"
-        },
-        {
-          "name": "Jialu Liang (Advisor)",
-          "time": "2024 – 2026"
-        },
-        {
-          "name": "Yining Pan (Advisor)",
-          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
-          "time": "2024 – 2025"
-        },
-        {
-          "name": "Ziyang Tang (Co-Advisor)",
-          "department": "Computer and Information Technology, Purdue University",
-          "time": "2021 – 2023"
-        },
-        {
-          "name": "Farhad Dastmalchi (Supervisory committee member)",
-          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
-          "time": "2024"
+          "time": "2023",
+          "startTime": "2023"
         }
       ],
       "MS student": [
         {
           "name": "Mengyuan Zhang (Supervisory committee member)",
           "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
-          "time": "2024"
+          "time": "2024",
+          "startTime": "2024"
         },
         {
           "name": "Zhaorui Liu (Co-Advisor)",
           "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
-          "time": "2023"
+          "time": "2023",
+          "startTime": "2023"
         }
       ],
       "others": [
         {
-          "name": "Mohammad Shafieinouri (MD-PhD Interview committee member)",
-          "department": "University of Maryland‐Baltimore",
-          "time": "2024"
-        },
-        {
-          "name": "Tatyana Cook (Advisor)",
-          "department": "Georgia Institute of Technology",
-          "time": "2022"
-        },
-        {
-          "name": "Chenhao Li (Advisor)",
-          "department": "University of Illinois Urbana-Champaign",
-          "time": "2022"
-        },
-        {
-          "name": "Zheyu Fu (Advisor)",
-          "department": "University of Illinois Urbana-Champaign",
-          "time": "2022"
-        },
-        {
           "name": "Zijia Tang (Advisor)",
           "department": "Computer Science, Duke University",
-          "time": "2024"
+          "time": "2024",
+          "startTime": "2024"
+        }
+      ],
+      "Student": [
+        {
+          "name": "Daling Shi (Advisor)",
+          "time": "2025",
+          "startTime": "2025"
+        },
+        {
+          "name": "Jialu Liang (Advisor)",
+          "time": "2024",
+          "startTime": "2024"
+        },
+        {
+          "name": "Yining Pan (Advisor)",
+          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2024",
+          "startTime": "2024"
+        },
+        {
+          "name": "Ziyang Tang (Co-Advisor)",
+          "department": "Computer and Information Technology, Purdue University",
+          "time": "2021",
+          "startTime": "2021"
+        },
+        {
+          "name": "Farhad Dastmalchi (Supervisory committee member)",
+          "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2024",
+          "startTime": "2024"
         }
       ]
     }
