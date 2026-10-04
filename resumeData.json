@@ -529,11 +529,6 @@
       "link": "https://github.com/QSong-github/irAEGIS"
     },
     {
-      "name": "BrMet",
-      "description": "Analysis code for studying the brain metastatic microenvironment and survival associations of tumor-cell receptors.",
-      "link": "https://github.com/QSong-github/BrMet"
-    },
-    {
       "name": "University of Florida Cancer Data Commons",
       "description": "University of Florida Cancer Data Commons",
       "link": "https://ufcdc-portal.org/"
