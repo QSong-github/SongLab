@@ -254,38 +254,6 @@
           "startTime": "2023"
         }
       ],
-      "others": [
-        {
-          "name": "Zijia Tang (Advisor)",
-          "department": "Computer Science, Duke University",
-          "time": "2024",
-          "startTime": "2024"
-        },
-        {
-          "name": "Mohammad Shafieinouri (MD-PhD Interview committee member)",
-          "department": "University of Maryland‐Baltimore",
-          "time": "2024",
-          "startTime": "2024"
-        },
-        {
-          "name": "Chenhao Li (Advisor)",
-          "department": "University of Illinois Urbana-Champaign",
-          "time": "2022",
-          "startTime": "2022"
-        },
-        {
-          "name": "Zheyu Fu (Advisor)",
-          "department": "University of Illinois Urbana-Champaign",
-          "time": "2022",
-          "startTime": "2022"
-        },
-        {
-          "name": "Tatyana Cook (Advisor)",
-          "department": "Georgia Institute of Technology",
-          "time": "2022",
-          "startTime": "2022"
-        }
-      ],
       "Student": [
         {
           "name": "Daling Shi (Advisor)",
@@ -314,6 +282,42 @@
           "department": "Health Outcomes and Biomedical Informatics, College of Medicine, UF",
           "time": "2024",
           "startTime": "2024"
+        }
+      ],
+      "Undergraduate student": [
+        {
+          "name": "Zijia Tang (Advisor)",
+          "department": "Computer Science, Duke University",
+          "time": "2024",
+          "startTime": "2024"
+        }
+      ],
+      "others": [
+        {
+          "name": "Mohammad Shafieinouri (MD-PhD Interview committee member)",
+          "department": "University of Maryland‐Baltimore",
+          "time": "2024",
+          "startTime": "2024"
+        }
+      ],
+      "Undergraduate intern": [
+        {
+          "name": "Chenhao Li (Advisor)",
+          "department": "University of Illinois Urbana-Champaign",
+          "time": "2022",
+          "startTime": "2022"
+        },
+        {
+          "name": "Zheyu Fu (Advisor)",
+          "department": "University of Illinois Urbana-Champaign",
+          "time": "2022",
+          "startTime": "2022"
+        },
+        {
+          "name": "Tatyana Cook (Advisor)",
+          "department": "Georgia Institute of Technology",
+          "time": "2022",
+          "startTime": "2022"
         }
       ]
     }
