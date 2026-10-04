@@ -514,83 +514,103 @@
   },
   "DevelopedSoftwareAndTools": [
     {
+      "name": "OCTAVE",
+      "description": "Scale-resolved evaluation of spatial gene expression prediction from histology.",
+      "link": "https://github.com/QSong-github/OCTAVE"
+    },
+    {
+      "name": "RESIST",
+      "description": "Single-cell and spatial omics resource for studying regulatory mechanisms of cancer drug resistance.",
+      "link": "https://github.com/QSong-github/RESIST"
+    },
+    {
+      "name": "irAEGIS",
+      "description": "Pathway-guided, interpretable prediction of immune-related adverse events from pretreatment single-cell RNA-seq data.",
+      "link": "https://github.com/QSong-github/irAEGIS"
+    },
+    {
+      "name": "BrMet",
+      "description": "Analysis code for studying the brain metastatic microenvironment and survival associations of tumor-cell receptors.",
+      "link": "https://github.com/QSong-github/BrMet"
+    },
+    {
       "name": "University of Florida Cancer Data Commons",
       "description": "University of Florida Cancer Data Commons",
       "link": "https://ufcdc-portal.org/"
     },
     {
       "name": "DrugClaw",
-      "description": "Agentic RAG for Drug Knowledge Retrieval, Reasoning, and Evidence Synthesis",
+      "description": "Agentic retrieval, reasoning, and evidence synthesis for drug-focused questions.",
       "link": "https://github.com/QSong-github/DrugClaw"
     },
     {
       "name": "MVCBench",
-      "description": "Multimodal Benchmark for Drug-induced Virtual Cell Phenotypes",
+      "description": "Benchmarking molecular and gene representations for predicting drug-induced transcriptional and morphological cell phenotypes.",
       "link": "https://github.com/QSong-github/MVCBench"
     },
     {
       "name": "CellPert",
-      "description": "Graph Variational learning with structure priors enables cross-dataset perturbation response prediction",
+      "description": "Graph variational learning with biological priors for predicting single-cell responses to chemical perturbations across platforms.",
       "link": "https://github.com/QSong-github/CellPert"
     },
     {
       "name": "PHO-Agents",
-      "description": "Large Language Model–Powered Multi-Agent System for Predicting Health Outcomes",
+      "description": "Combines longitudinal electronic health records with collaborative LLM reasoning to predict health outcomes.",
       "link": "https://github.com/QSong-github/PHO-Agents"
     },
     {
       "name": "scDeepAPA",
-      "description": "A Deep Learning Framework for Single-Cell Alternative Polyadenylation Identification",
+      "description": "Deep learning for identifying alternative polyadenylation in single-cell data.",
       "link": "https://github.com/QSong-github/scDeepAPA"
     },
     {
       "name": "MORSE",
-      "description": "Unsupervised Detection of Mitochondrial Transfer from Single-Cell mtDNA Variants",
+      "description": "Ranks putative mitochondrial receiver cells using single-cell mtDNA variant profiles derived from scRNA-seq data.",
       "link": "https://github.com/QSong-github/MORSE"
     },
     {
       "name": "MitoBayes",
-      "description": "A Hierarchical Bayesian Framework to Quantify Clone-Specific Selection Pressures",
+      "description": "Hierarchical Bayesian modeling of single-cell mtDNA variants and gene expression to quantify clone-specific selection pressures.",
       "link": "https://github.com/QSong-github/MitoBayes"
     },
     {
       "name": "UniD3",
-      "description": "LLM-driven Drug-Disease Dataset Construction via KG-RAG",
+      "description": "Open knowledge graphs, question-answering datasets, and a knowledge graph-enhanced RAG framework for drug–disease discovery and reasoning.",
       "link": "https://github.com/QSong-github/UniD3"
     },
     {
       "name": "VIRSE",
-      "description": "A Variational Bayesian Framework for RNA Structural Ensemble Inference",
+      "description": "Bayesian inference of RNA structural ensembles from DMS mutational profiling sequencing data.",
       "link": "https://github.com/QSong-github/VIRSE"
     },
     {
       "name": "scDrugMap",
-      "description": "A Benchmarking Framework for Foundation Models in Drug Response Prediction",
+      "description": "Toolkit and benchmarking platform for single-cell drug response prediction with foundation models.",
       "link": "https://github.com/QSong-github/scDrugMap"
     },
     {
       "name": "AlzCLIP",
-      "description": "Integrating Genetic and Imaging Data for Alzheimer’s Disease Diagnosis and Interpretation",
+      "description": "Contrastive learning that integrates genetic variants and brain imaging for Alzheimer’s disease prediction and interpretation.",
       "link": "https://github.com/QSong-github/AlzCLIP"
     },
     {
       "name": "PhenoProfiler",
-      "description": "Advancing Morphology Representations for Image-based Drug Discovery",
+      "description": "Extracts quantitative cell morphology representations from high-throughput images for drug discovery.",
       "link": "https://github.com/QSong-github/PhenoProfiler"
     },
     {
       "name": "HECLIP",
-      "description": "Histology-Enhanced Contrastive Learning for Imputation of Transcriptomics Profiles",
+      "description": "Histology-enhanced contrastive learning for predicting gene expression profiles from H&E images.",
       "link": "https://github.com/QSong-github/HECLIP"
     },
     {
       "name": "GatorST",
-      "description": "A Versatile Contrastive Meta-Learning Framework for Spatial Transcriptomic Data Analysis",
+      "description": "Contrastive meta-learning framework for spatial transcriptomic data analysis.",
       "link": "https://github.com/QSong-github/GatorST"
     },
     {
       "name": "SpaIM",
-      "description": "Single-cell Spatial Transcriptomics Imputation via style transfer",
+      "description": "Style transfer learning to impute unmeasured spatial gene expression using single-cell RNA-seq data.",
       "link": "https://github.com/QSong-github/SpaIM"
     },
     {
@@ -600,72 +620,72 @@
     },
     {
       "name": "scPerb",
-      "description": "predict single-cell perturbation via style transfer-based variational autoencoder",
+      "description": "Style transfer variational autoencoder for predicting single-cell gene expression after perturbation.",
       "link": "https://github.com/QSong-github/scPerb"
     },
     {
       "name": "xSiGra",
-      "description": "Explainable model for single-cell spatial data elucidation",
+      "description": "Explainable image-augmented graph transformers for spatial cell-type identification and interpretation of key genes and cells.",
       "link": "https://github.com/QSong-github/xSiGra"
     },
     {
       "name": "DrugFormer",
-      "description": "graph-enhanced language model to predict drug sensitivity",
+      "description": "Graph-enhanced language modeling for predicting drug response and resistance at single-cell resolution.",
       "link": "https://github.com/QSong-github/DrugFormer"
     },
     {
       "name": "AntiFormer",
-      "description": "Knowledge graph enhanced LLM for binding affinity prediction",
+      "description": "Graph-enhanced large language modeling for antibody–antigen binding affinity prediction.",
       "link": "https://github.com/QSong-github/AntiFormer"
     },
     {
       "name": "HGGEP",
-      "description": "Gene Expression Prediction from Histology Images via Hypergraph Neural Networks",
+      "description": "Hypergraph neural networks for gene expression prediction from histology images.",
       "link": "https://github.com/QSong-github/HGGEP"
     },
     {
       "name": "SpaRx",
-      "description": "Elucidate spatial heterogeneity of drug sensitivity for personalized treatment",
+      "description": "Domain adaptation to reveal spatial heterogeneity of drug sensitivity using pharmacogenomics and spatial profiles.",
       "link": "https://github.com/QSong-github/SpaRx"
     },
     {
       "name": "SiGra",
-      "description": "Single-cell spatial elucidation through image-augmented graph transformer",
+      "description": "Image-augmented graph transformers for spatial domain identification and transcriptomic signal enhancement.",
       "link": "https://github.com/QSong-github/SiGra"
     },
     {
       "name": "spaCI",
-      "description": "Deciphering spatial cellular communications through adaptive graph model",
+      "description": "Adaptive graph modeling to infer spatial cellular communication and ligand–receptor signaling.",
       "link": "https://github.com/QSong-github/spaCI"
     },
     {
       "name": "SMGR",
-      "description": "a joint statistical method for integrative analysis of single-cell multi-omics data",
+      "description": "Joint statistical analysis of single-cell RNA-seq and ATAC-seq to identify regulatory programs and target genes.",
       "link": "https://github.com/QSong-github/SMGR"
     },
     {
       "name": "BIMM",
-      "description": "Uncovering the dynamic effects of DEX treatment on lung cancer by integrating bioinformatic inference and multiscale modeling of scRNA-seq and proteomics data",
+      "description": "Bioinformatic inference and multiscale modeling of single-cell RNA-seq and proteomics to study dexamethasone response in lung cancer.",
       "link": "https://github.com/QSong-github/BIMM"
     },
     {
       "name": "scGCN",
-      "description": "A Graph Convolutional Networks Algorithm for Knowledge Transfer in Single Cell Omics",
+      "description": "Graph convolutional networks for knowledge and label transfer across single-cell omics datasets.",
       "link": "https://github.com/QSong-github/scGCN"
     },
     {
       "name": "DSTG",
-      "description": "Deconvoluting Spatial Transcriptomics Data through Graph-based Artificial Intelligence",
+      "description": "Graph convolutional networks for deconvoluting cell mixtures in spatial transcriptomics data.",
       "link": "https://github.com/QSong-github/DSTG"
     },
     {
       "name": "scLM",
-      "description": "automatic detection of consensus gene clusters across multiple single-cell datasets",
+      "description": "Identifies co-expressed gene clusters across multiple single-cell RNA-seq datasets.",
       "link": "https://github.com/QSong-github/scLM"
     },
     {
       "name": "SPN",
-      "description": "biological mechanism in breast cancer with different proliferation levels",
+      "description": "Network analysis of breast cancer gene expression, survival, and protein interactions to investigate proliferation-related prognostic subnetworks.",
       "link": "https://github.com/QSong-github/SPN"
     },
     {
