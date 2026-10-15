@@ -3,11 +3,7 @@ title: Software
 layout: page
 ---
 # Software and resources
-
 Open-source tools and research resources from the Song Lab and its collaborations, listed in the September 15, 2026 CV.
-
-- University of Florida Cancer Data Commons.<br />
-  [Project](https://ufcdc-portal.org/) · [Web server](https://qsong-github.github.io/ufcdc-contact/src/)
 
 - DrugClaw: Agentic RAG for Drug Knowledge Retrieval, Reasoning, and Evidence Synthesis<br />
   [Project](https://github.com/QSong-github/DrugClaw)
@@ -39,17 +35,20 @@ Open-source tools and research resources from the Song Lab and its collaboration
 - scDrugMap: A Benchmarking Framework for Foundation Models in Drug Response Prediction<br />
   [Project](https://github.com/QSong-github/scDrugMap) · [Web server](https://scdrugmap.com/)
 
-- AlzCLIP: Integrating Genetic and Imaging Data for Alzheimer’s Disease Diagnosis and Interpretation<br />
-  [Project](https://github.com/QSong-github/AlzCLIP)
-
 - PhenoProfiler : Advancing Morphology Representations for Image-based Drug Discovery<br />
   [Project](https://github.com/QSong-github/PhenoProfiler) · [Web server](https://phenoprofiler.org/)
 
-- HECLIP: Histology-Enhanced Contrastive Learning for Imputation of Transcriptomics Profiles.<br />
-  [Project](https://github.com/QSong-github/HECLIP)
-
 - GatorST: A Versatile Contrastive Meta-Learning Framework for Spatial Transcriptomic Data Analysis<br />
   [Project](https://github.com/QSong-github/GatorST)
+
+- University of Florida Cancer Data Commons.<br />
+  [Project](https://ufcdc-portal.org/) · [Web server](https://qsong-github.github.io/ufcdc-contact/src/)
+
+- AlzCLIP: Integrating Genetic and Imaging Data for Alzheimer's Disease Diagnosis and Interpretation<br />
+  [Project](https://github.com/QSong-github/AlzCLIP)
+
+- HECLIP: Histology-Enhanced Contrastive Learning for Imputation of Transcriptomics Profiles.<br />
+  [Project](https://github.com/QSong-github/HECLIP)
 
 - SpaIM: Single-cell Spatial Transcriptomics Imputation via style transfer.<br />
   [Project](https://github.com/QSong-github/SpaIM)
@@ -71,6 +70,9 @@ Open-source tools and research resources from the Song Lab and its collaboration
 
 - HGGEP: Gene Expression Prediction from Histology Images via Hypergraph Neural Networks.<br />
   [Project](https://github.com/QSong-github/HGGEP)
+
+- CRISPRoffT: Comprehensive database of CRISPR/Cas off-targets.<br />
+  [Project](https://ccsm.uth.edu/CRISPRoffT)
 
 - SpaRx: Elucidate spatial heterogeneity of drug sensitivity for personalized treatment.<br />
   [Project](https://github.com/QSong-github/SpaRx)
@@ -98,6 +100,3 @@ Open-source tools and research resources from the Song Lab and its collaboration
 
 - SPN: biological mechanism in breast cancer with different proliferation levels.<br />
   [Project](https://github.com/QSong-github/SPN)
-
-- CRISPRoffT: Comprehensive database of CRISPR/Cas off-targets.<br />
-  [Project](https://ccsm.uth.edu/CRISPRoffT)
