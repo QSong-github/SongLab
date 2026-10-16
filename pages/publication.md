@@ -4,11 +4,15 @@ layout: page
 ---
 # Publications
 
-Bibliography updated from the September 15, 2026 CV. Entries include journal articles and conference proceedings; citation details are reproduced as listed in the CV.
+Bibliography updated October 2026. Entries include journal articles, accepted papers, and conference proceedings.
 
 [Google Scholar](https://scholar.google.com/citations?user=wIYviKIAAAAJ&hl=en)
 
 \* Corresponding author; # co-first author.
+
+* Wang Q, Guo S, Liang J, Zhang W, Xu J, **Song Q**\*, “CellPert: Graph-based variational learning with biological priors for cross-dataset perturbation prediction”. Patterns (2026, accepted). [Project](https://github.com/QSong-github/CellPert)
+
+* Liang J, Zhou M, Pan Y, Guo S, Yin R, Zhou X, Zhang W, **Song Q**\*, “RESIST: an integrative resource for systematic characterization of cancer drug resistance mechanisms”. Database (2026, accepted). [Web server](https://resist.website/)
 
 * Wang Q, Li B, Zhang B, **Song Q**\*, “DrugClaw and DrugAudit: A Primary-Source-Grounded Agent and Authority-Aware Benchmark for Drug-Information Question Answering”. Findings of the Association for Computational Linguistics: EMNLP 2026.
 
@@ -30,7 +34,7 @@ Bibliography updated from the September 15, 2026 CV. Entries include journal art
 
 * Li B, Zhang B, Zhang C, Huang W, Wang S, Wang Q, Li M, Zhang Y, **Song Q**\*, “PhenoProfiler: Advancing Morphology Representations for Image-based Drug Discovery”. Nature Communications (2026)
 
-* Davidorf B, Ho D, Bouch R, Yu J, Dong P, Liu L, **Song Q**\*, He Z, “Distinct Intercellular Communication Architectures Distinguish Protective and Pathogenic Th17 Responses in Infection and Autoimmune Colitis”. Cell Insight (2026).
+* Davidorf B, Ho D, Bouch R, Yu J, Dong P, Liu L, **Song Q**\*, He Z, “Distinct Intercellular Communication Architectures Distinguish Protective and Pathogenic Th17 Responses in Infection and Autoimmune Colitis”. Cell Insight (2026). [Paper](https://doi.org/10.1016/j.cellin.2026.100366)
 
 * Li B, Tang Z, Budhkar A, Zhang T, Yang B, Su J, **Song Q**\*, “SpaIM: Single-cell Spatial Transcriptomics Imputation via Style Transfer.” Nature Communications (2025)
 
