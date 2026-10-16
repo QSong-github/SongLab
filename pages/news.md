@@ -4,6 +4,12 @@ layout: page
 ---
 # News
 
+* **[2026]** Our manuscript “CellPert: Graph-based variational learning with biological priors for cross-dataset perturbation prediction” is accepted by _Patterns_! [Project](https://github.com/QSong-github/CellPert)
+
+* **[2026]** Our manuscript “RESIST: an integrative resource for systematic characterization of cancer drug resistance mechanisms” is accepted by _Database_! [Web server](https://resist.website/)
+
+* **[Sep 2026]** Our manuscript “Distinct Intercellular Communication Architectures Distinguish Protective and Pathogenic Th17 Responses in Infection and Autoimmune Colitis” is published in _Cell Insight_! [Paper](https://doi.org/10.1016/j.cellin.2026.100366)
+
 * **[Aug 2026]** Dr. Qianqian Song joined Purdue University as an Associate Professor with tenure in the School of Applied and Creative Computing, Purdue Polytechnic.
 
 * **[2026]** Dr. Song serves as Director of the Purdue Polytechnic Digital Health Innovation Center (PDHIC).
