@@ -521,17 +521,19 @@
   "DevelopedSoftwareAndTools": [
     {
       "name": "CellPert",
-      "description": "Graph variational learning with biological priors for predicting single-cell responses to chemical perturbations across platforms. Patterns (2026, accepted).",
+      "description": "Graph variational learning with biological priors for predicting single-cell responses to chemical perturbations across platforms. Patterns (accepted October 2026).",
       "link": "https://github.com/QSong-github/CellPert",
       "publicationStatus": "accepted",
-      "publicationYear": 2026
+      "publicationYear": 2026,
+      "acceptanceDate": "2026-10"
     },
     {
       "name": "RESIST",
-      "description": "Single-cell and spatial omics resource for studying regulatory mechanisms of cancer drug resistance. Database (2026, accepted).",
+      "description": "Single-cell and spatial omics resource for studying regulatory mechanisms of cancer drug resistance. Database (accepted October 2026).",
       "link": "https://github.com/QSong-github/RESIST",
       "publicationStatus": "accepted",
-      "publicationYear": 2026
+      "publicationYear": 2026,
+      "acceptanceDate": "2026-10"
     },
     {
       "name": "DrugClaw",
@@ -748,11 +750,11 @@
   ],
   "news": [
     {
-      "date": "2026",
+      "date": "Oct 2026",
       "description": "Our manuscript “CellPert: Graph-based variational learning with biological priors for cross-dataset perturbation prediction” is accepted by Patterns!"
     },
     {
-      "date": "2026",
+      "date": "Oct 2026",
       "description": "Our manuscript “RESIST: an integrative resource for systematic characterization of cancer drug resistance mechanisms” is accepted by Database!"
     },
     {
