@@ -1245,7 +1245,7 @@
               {
                 key: "getDisplayList",
                 value: function (e, t) {
-                  return t ? e : e.slice(0, 5);
+                  return t ? e : e.slice(0, 6);
                 },
               },
               {
@@ -1359,7 +1359,7 @@
                             className: "nine columns main-col",
                             children: [
                               Object(x.jsx)("div", { children: e }),
-                              tools.length > 5 && Object(x.jsx)("button", {
+                              tools.length > 6 && Object(x.jsx)("button", {
                                 type: "button",
                                 onClick: this.toggleShowAll,
                                 "aria-expanded": this.state.showAll,
