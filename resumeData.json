@@ -325,6 +325,9 @@
   "publications": {
     "ManuscriptUnderReview": [],
     "PublishedJournalArticles": [
+      "Wang Q, Guo S, Liang J, Zhang W, Xu J, Song Q*, “CellPert: Graph-based variational learning with biological priors for cross-dataset perturbation prediction”. Patterns (2026, Accepted).",
+      "Liang J, Zhou M, Pan Y, Guo S, Yin R, Zhou X, Zhang W, Song Q*, “RESIST: an integrative resource for systematic characterization of cancer drug resistance mechanisms”. Database (2026, Accepted).",
+      "Davidorf B, Ho D, Bouch R, Yu J, Dong P, Liu L, Song Q*, He Z, “Distinct Intercellular Communication Architectures Distinguish Protective and Pathogenic Th17 Responses in Infection and Autoimmune Colitis”. Cell Insight (2026).",
       "Wang Q, Li B, Zhang B, Song Q*, “DrugClaw and DrugAudit: A Primary-Source-Grounded Agent and Authority-Aware Benchmark for Drug-Information Question Answering”. Findings of the Association for Computational Linguistics: EMNLP 2026.",
       "Wang Q, Liu T, Liang J, Shi D, Su J, Song Q*, “UniD3: LLM-driven Drug-Disease Dataset Construction via KG-RAG”. Findings of the Association for Computational Linguistics: EMNLP 2026.",
       "Liang J, Zhou M, Xie M, Song Q*, “ShapeRNA: An Integrated framework for RNA Secondary Structure Analysis and SHAPE-MaP-Based Structural Prediction”. Nucleic Acids Research (2026)",
@@ -335,7 +338,6 @@
       "Pan Y, Cho H, Lou Q, Zhang W, Asken B, Song Q*, “Systematic Review of Genetic Risk in Alzheimer's Disease”. npj Systems Biology and Applications (2026)",
       "Wang Q, Pan Y, Zhou M, Tang Z, Wang Y, Wang Q, Song Q*, “scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction”. Nature Communications (2026)",
       "Li B, Zhang B, Zhang C, Huang W, Wang S, Wang Q, Li M, Zhang Y, Song Q*, “PhenoProfiler: Advancing Morphology Representations for Image-based Drug Discovery”. Nature Communications (2026)",
-      "Davidorf B, Ho D, Bouch R, Yu J, Dong P, Liu L, Song Q*, He Z, “Distinct Intercellular Communication Architectures Distinguish Protective and Pathogenic Th17 Responses in Infection and Autoimmune Colitis”. Cell Insight (2026).",
       "Li B, Tang Z, Budhkar A, Zhang T, Yang B, Su J, Song Q*, “SpaIM: Single-cell Spatial Transcriptomics Imputation via Style Transfer.” Nature Communications (2025)",
       "Wang Y, Wang Q, Zhou M, Liu Y, Zhou X, Song Q*, “Integration of Genetic and Imaging Data for Alzheimer's Disease Diagnosis and Interpretation”. Advanced Science (2025)",
       "Wang Y, Guo Y, Tan A, Zhao L, Xu S, Chen Y, Liu M, Su J, George T, Bian J, Song Q*, “A real world data cohort study of immune-related adverse events in patients receiving immune checkpoint inhibitor therapy: a real world data cohort study”. npj Precision Oncology",
@@ -518,192 +520,245 @@
   },
   "DevelopedSoftwareAndTools": [
     {
-      "name": "OCTAVE",
-      "description": "Scale-resolved evaluation of spatial gene expression prediction from histology.",
-      "link": "https://github.com/QSong-github/OCTAVE"
+      "name": "CellPert",
+      "description": "Graph variational learning with biological priors for predicting single-cell responses to chemical perturbations across platforms. Patterns (2026, accepted).",
+      "link": "https://github.com/QSong-github/CellPert",
+      "publicationStatus": "accepted",
+      "publicationYear": 2026
     },
     {
       "name": "RESIST",
-      "description": "Single-cell and spatial omics resource for studying regulatory mechanisms of cancer drug resistance.",
-      "link": "https://github.com/QSong-github/RESIST"
-    },
-    {
-      "name": "irAEGIS",
-      "description": "Pathway-guided, interpretable prediction of immune-related adverse events from pretreatment single-cell RNA-seq data.",
-      "link": "https://github.com/QSong-github/irAEGIS"
-    },
-    {
-      "name": "University of Florida Cancer Data Commons",
-      "description": "University of Florida Cancer Data Commons",
-      "link": "https://ufcdc-portal.org/"
+      "description": "Single-cell and spatial omics resource for studying regulatory mechanisms of cancer drug resistance. Database (2026, accepted).",
+      "link": "https://github.com/QSong-github/RESIST",
+      "publicationStatus": "accepted",
+      "publicationYear": 2026
     },
     {
       "name": "DrugClaw",
-      "description": "Agentic retrieval, reasoning, and evidence synthesis for drug-focused questions.",
-      "link": "https://github.com/QSong-github/DrugClaw"
-    },
-    {
-      "name": "MVCBench",
-      "description": "Benchmarking molecular and gene representations for predicting drug-induced transcriptional and morphological cell phenotypes.",
-      "link": "https://github.com/QSong-github/MVCBench"
-    },
-    {
-      "name": "CellPert",
-      "description": "Graph variational learning with biological priors for predicting single-cell responses to chemical perturbations across platforms.",
-      "link": "https://github.com/QSong-github/CellPert"
-    },
-    {
-      "name": "PHO-Agents",
-      "description": "Combines longitudinal electronic health records with collaborative LLM reasoning to predict health outcomes.",
-      "link": "https://github.com/QSong-github/PHO-Agents"
-    },
-    {
-      "name": "scDeepAPA",
-      "description": "Deep learning for identifying alternative polyadenylation in single-cell data.",
-      "link": "https://github.com/QSong-github/scDeepAPA"
-    },
-    {
-      "name": "MORSE",
-      "description": "Ranks putative mitochondrial receiver cells using single-cell mtDNA variant profiles derived from scRNA-seq data.",
-      "link": "https://github.com/QSong-github/MORSE"
-    },
-    {
-      "name": "MitoBayes",
-      "description": "Hierarchical Bayesian modeling of single-cell mtDNA variants and gene expression to quantify clone-specific selection pressures.",
-      "link": "https://github.com/QSong-github/MitoBayes"
+      "description": "Agentic retrieval, reasoning, and evidence synthesis for drug-focused questions. Findings of EMNLP (2026, accepted).",
+      "link": "https://github.com/QSong-github/DrugClaw",
+      "publicationStatus": "accepted",
+      "publicationYear": 2026
     },
     {
       "name": "UniD3",
-      "description": "Open knowledge graphs, question-answering datasets, and a knowledge graph-enhanced RAG framework for drug–disease discovery and reasoning.",
-      "link": "https://github.com/QSong-github/UniD3"
+      "description": "Open knowledge graphs, question-answering datasets, and a knowledge graph-enhanced RAG framework for drug–disease discovery and reasoning. Findings of EMNLP (2026, accepted).",
+      "link": "https://github.com/QSong-github/UniD3",
+      "publicationStatus": "accepted",
+      "publicationYear": 2026
+    },
+    {
+      "name": "scDeepAPA",
+      "description": "Deep learning for identifying alternative polyadenylation in single-cell data. Published online: 2026-06-24.",
+      "link": "https://github.com/QSong-github/scDeepAPA",
+      "publicationDate": "2026-06-24"
     },
     {
       "name": "VIRSE",
-      "description": "Bayesian inference of RNA structural ensembles from DMS mutational profiling sequencing data.",
-      "link": "https://github.com/QSong-github/VIRSE"
-    },
-    {
-      "name": "scDrugMap",
-      "description": "Toolkit and benchmarking platform for single-cell drug response prediction with foundation models.",
-      "link": "https://github.com/QSong-github/scDrugMap"
-    },
-    {
-      "name": "AlzCLIP",
-      "description": "Contrastive learning that integrates genetic variants and brain imaging for Alzheimer’s disease prediction and interpretation.",
-      "link": "https://github.com/QSong-github/AlzCLIP"
-    },
-    {
-      "name": "PhenoProfiler",
-      "description": "Extracts quantitative cell morphology representations from high-throughput images for drug discovery.",
-      "link": "https://github.com/QSong-github/PhenoProfiler"
-    },
-    {
-      "name": "HECLIP",
-      "description": "Histology-enhanced contrastive learning for predicting gene expression profiles from H&E images.",
-      "link": "https://github.com/QSong-github/HECLIP"
-    },
-    {
-      "name": "GatorST",
-      "description": "Contrastive meta-learning framework for spatial transcriptomic data analysis.",
-      "link": "https://github.com/QSong-github/GatorST"
-    },
-    {
-      "name": "SpaIM",
-      "description": "Style transfer learning to impute unmeasured spatial gene expression using single-cell RNA-seq data.",
-      "link": "https://github.com/QSong-github/SpaIM"
-    },
-    {
-      "name": "DRMref",
-      "description": "comprehensive reference map of drug resistance mechanisms in human cancer",
-      "link": "https://ccsm.uth.edu/DRMref/"
-    },
-    {
-      "name": "scPerb",
-      "description": "Style transfer variational autoencoder for predicting single-cell gene expression after perturbation.",
-      "link": "https://github.com/QSong-github/scPerb"
-    },
-    {
-      "name": "xSiGra",
-      "description": "Explainable image-augmented graph transformers for spatial cell-type identification and interpretation of key genes and cells.",
-      "link": "https://github.com/QSong-github/xSiGra"
-    },
-    {
-      "name": "DrugFormer",
-      "description": "Graph-enhanced language modeling for predicting drug response and resistance at single-cell resolution.",
-      "link": "https://github.com/QSong-github/DrugFormer"
-    },
-    {
-      "name": "AntiFormer",
-      "description": "Graph-enhanced large language modeling for antibody–antigen binding affinity prediction.",
-      "link": "https://github.com/QSong-github/AntiFormer"
-    },
-    {
-      "name": "HGGEP",
-      "description": "Hypergraph neural networks for gene expression prediction from histology images.",
-      "link": "https://github.com/QSong-github/HGGEP"
-    },
-    {
-      "name": "SpaRx",
-      "description": "Domain adaptation to reveal spatial heterogeneity of drug sensitivity using pharmacogenomics and spatial profiles.",
-      "link": "https://github.com/QSong-github/SpaRx"
-    },
-    {
-      "name": "SiGra",
-      "description": "Image-augmented graph transformers for spatial domain identification and transcriptomic signal enhancement.",
-      "link": "https://github.com/QSong-github/SiGra"
-    },
-    {
-      "name": "spaCI",
-      "description": "Adaptive graph modeling to infer spatial cellular communication and ligand–receptor signaling.",
-      "link": "https://github.com/QSong-github/spaCI"
-    },
-    {
-      "name": "SMGR",
-      "description": "Joint statistical analysis of single-cell RNA-seq and ATAC-seq to identify regulatory programs and target genes.",
-      "link": "https://github.com/QSong-github/SMGR"
-    },
-    {
-      "name": "BIMM",
-      "description": "Bioinformatic inference and multiscale modeling of single-cell RNA-seq and proteomics to study dexamethasone response in lung cancer.",
-      "link": "https://github.com/QSong-github/BIMM"
-    },
-    {
-      "name": "scGCN",
-      "description": "Graph convolutional networks for knowledge and label transfer across single-cell omics datasets.",
-      "link": "https://github.com/QSong-github/scGCN"
-    },
-    {
-      "name": "DSTG",
-      "description": "Graph convolutional networks for deconvoluting cell mixtures in spatial transcriptomics data.",
-      "link": "https://github.com/QSong-github/DSTG"
-    },
-    {
-      "name": "scLM",
-      "description": "Identifies co-expressed gene clusters across multiple single-cell RNA-seq datasets.",
-      "link": "https://github.com/QSong-github/scLM"
-    },
-    {
-      "name": "SPN",
-      "description": "Network analysis of breast cancer gene expression, survival, and protein interactions to investigate proliferation-related prognostic subnetworks.",
-      "link": "https://github.com/QSong-github/SPN"
-    },
-    {
-      "name": "CRISPRoffT",
-      "description": "Comprehensive database of CRISPR/Cas off-targets",
-      "link": "https://ccsm.uth.edu/CRISPRoffT"
-    },
-    {
-      "name": "ShapeRNA",
-      "description": "An integrated web server for RNA secondary structure, ensemble, and functional analysis",
-      "link": "https://shaperna.com/"
+      "description": "Bayesian inference of RNA structural ensembles from DMS mutational profiling sequencing data. Published online: 2026-06-15.",
+      "link": "https://github.com/QSong-github/VIRSE",
+      "publicationDate": "2026-06-15"
     },
     {
       "name": "SpaGene",
-      "description": "A Deep Adversarial Framework for Spatial Gene Imputation",
-      "link": "https://github.com/asbudhkar/SpaGene"
+      "description": "A Deep Adversarial Framework for Spatial Gene Imputation Published online: 2026-05-15.",
+      "link": "https://github.com/asbudhkar/SpaGene",
+      "publicationDate": "2026-05-15"
+    },
+    {
+      "name": "ShapeRNA",
+      "description": "An integrated web server for RNA secondary structure, ensemble, and functional analysis Published online: 2026-04-23.",
+      "link": "https://shaperna.com/",
+      "publicationDate": "2026-04-23"
+    },
+    {
+      "name": "GatorST",
+      "description": "Contrastive meta-learning framework for spatial transcriptomic data analysis. Published online: 2026-04-08.",
+      "link": "https://github.com/QSong-github/GatorST",
+      "publicationDate": "2026-04-08"
+    },
+    {
+      "name": "PhenoProfiler",
+      "description": "Extracts quantitative cell morphology representations from high-throughput images for drug discovery. Published online: 2025-12-14.",
+      "link": "https://github.com/QSong-github/PhenoProfiler",
+      "publicationDate": "2025-12-14"
+    },
+    {
+      "name": "scDrugMap",
+      "description": "Toolkit and benchmarking platform for single-cell drug response prediction with foundation models. Published online: 2025-12-11.",
+      "link": "https://github.com/QSong-github/scDrugMap",
+      "publicationDate": "2025-12-11"
+    },
+    {
+      "name": "SpaIM",
+      "description": "Style transfer learning to impute unmeasured spatial gene expression using single-cell RNA-seq data. Published online: 2025-08-23.",
+      "link": "https://github.com/QSong-github/SpaIM",
+      "publicationDate": "2025-08-23"
+    },
+    {
+      "name": "AlzCLIP",
+      "description": "Contrastive learning that integrates genetic variants and brain imaging for Alzheimer’s disease prediction and interpretation. Published online: 2025-08-11.",
+      "link": "https://github.com/QSong-github/AlzCLIP",
+      "publicationDate": "2025-08-11"
+    },
+    {
+      "name": "HECLIP",
+      "description": "Histology-enhanced contrastive learning for predicting gene expression profiles from H&E images. Published online: 2025-06-26.",
+      "link": "https://github.com/QSong-github/HECLIP",
+      "publicationDate": "2025-06-26"
+    },
+    {
+      "name": "CRISPRoffT",
+      "description": "Comprehensive database of CRISPR/Cas off-targets Published online: 2024-11-11.",
+      "link": "https://ccsm.uth.edu/CRISPRoffT",
+      "publicationDate": "2024-11-11"
+    },
+    {
+      "name": "scPerb",
+      "description": "Style transfer variational autoencoder for predicting single-cell gene expression after perturbation. Published online: 2024-10-31.",
+      "link": "https://github.com/QSong-github/scPerb",
+      "publicationDate": "2024-10-31"
+    },
+    {
+      "name": "HGGEP",
+      "description": "Hypergraph neural networks for gene expression prediction from histology images. Published online: 2024-10-14.",
+      "link": "https://github.com/QSong-github/HGGEP",
+      "publicationDate": "2024-10-14"
+    },
+    {
+      "name": "DrugFormer",
+      "description": "Graph-enhanced language modeling for predicting drug response and resistance at single-cell resolution. Published online: 2024-08-29.",
+      "link": "https://github.com/QSong-github/DrugFormer",
+      "publicationDate": "2024-08-29"
+    },
+    {
+      "name": "AntiFormer",
+      "description": "Graph-enhanced large language modeling for antibody–antigen binding affinity prediction. Published online: 2024-08-20.",
+      "link": "https://github.com/QSong-github/AntiFormer",
+      "publicationDate": "2024-08-20"
+    },
+    {
+      "name": "xSiGra",
+      "description": "Explainable image-augmented graph transformers for spatial cell-type identification and interpretation of key genes and cells. Published online: 2024-08-09.",
+      "link": "https://github.com/QSong-github/xSiGra",
+      "publicationDate": "2024-08-09"
+    },
+    {
+      "name": "DRMref",
+      "description": "comprehensive reference map of drug resistance mechanisms in human cancer Published online: 2023-11-20.",
+      "link": "https://ccsm.uth.edu/DRMref/",
+      "publicationDate": "2023-11-20"
+    },
+    {
+      "name": "SpaRx",
+      "description": "Domain adaptation to reveal spatial heterogeneity of drug sensitivity using pharmacogenomics and spatial profiles. Published online: 2023-10-05.",
+      "link": "https://github.com/QSong-github/SpaRx",
+      "publicationDate": "2023-10-05"
+    },
+    {
+      "name": "SiGra",
+      "description": "Image-augmented graph transformers for spatial domain identification and transcriptomic signal enhancement. Published online: 2023-09-12.",
+      "link": "https://github.com/QSong-github/SiGra",
+      "publicationDate": "2023-09-12"
+    },
+    {
+      "name": "spaCI",
+      "description": "Adaptive graph modeling to infer spatial cellular communication and ligand–receptor signaling. Published online: 2022-12-21.",
+      "link": "https://github.com/QSong-github/spaCI",
+      "publicationDate": "2022-12-21"
+    },
+    {
+      "name": "BIMM",
+      "description": "Bioinformatic inference and multiscale modeling of single-cell RNA-seq and proteomics to study dexamethasone response in lung cancer. Published online: 2022-08-19.",
+      "link": "https://github.com/QSong-github/BIMM",
+      "publicationDate": "2022-08-19"
+    },
+    {
+      "name": "SMGR",
+      "description": "Joint statistical analysis of single-cell RNA-seq and ATAC-seq to identify regulatory programs and target genes. Published online: 2022-07-27.",
+      "link": "https://github.com/QSong-github/SMGR",
+      "publicationDate": "2022-07-27"
+    },
+    {
+      "name": "scGCN",
+      "description": "Graph convolutional networks for knowledge and label transfer across single-cell omics datasets. Published online: 2021-06-22.",
+      "link": "https://github.com/QSong-github/scGCN",
+      "publicationDate": "2021-06-22"
+    },
+    {
+      "name": "DSTG",
+      "description": "Graph convolutional networks for deconvoluting cell mixtures in spatial transcriptomics data. Published online: 2021-01-22.",
+      "link": "https://github.com/QSong-github/DSTG",
+      "publicationDate": "2021-01-22"
+    },
+    {
+      "name": "scLM",
+      "description": "Identifies co-expressed gene clusters across multiple single-cell RNA-seq datasets. Published online: 2020-12-24.",
+      "link": "https://github.com/QSong-github/scLM",
+      "publicationDate": "2020-12-24"
+    },
+    {
+      "name": "SPN",
+      "description": "Network analysis of breast cancer gene expression, survival, and protein interactions to investigate proliferation-related prognostic subnetworks. Published online: 2015-08-10.",
+      "link": "https://github.com/QSong-github/SPN",
+      "publicationDate": "2015-08-10"
+    },
+    {
+      "name": "OCTAVE",
+      "description": "Scale-resolved evaluation of spatial gene expression prediction from histology. Publication date not listed.",
+      "link": "https://github.com/QSong-github/OCTAVE",
+      "publicationStatus": "date_not_listed"
+    },
+    {
+      "name": "irAEGIS",
+      "description": "Pathway-guided, interpretable prediction of immune-related adverse events from pretreatment single-cell RNA-seq data. Publication date not listed.",
+      "link": "https://github.com/QSong-github/irAEGIS",
+      "publicationStatus": "date_not_listed"
+    },
+    {
+      "name": "University of Florida Cancer Data Commons",
+      "description": "University of Florida Cancer Data Commons Publication date not listed.",
+      "link": "https://ufcdc-portal.org/",
+      "publicationStatus": "date_not_listed"
+    },
+    {
+      "name": "MVCBench",
+      "description": "Benchmarking molecular and gene representations for predicting drug-induced transcriptional and morphological cell phenotypes. Publication date not listed.",
+      "link": "https://github.com/QSong-github/MVCBench",
+      "publicationStatus": "date_not_listed"
+    },
+    {
+      "name": "PHO-Agents",
+      "description": "Combines longitudinal electronic health records with collaborative LLM reasoning to predict health outcomes. Publication date not listed.",
+      "link": "https://github.com/QSong-github/PHO-Agents",
+      "publicationStatus": "date_not_listed"
+    },
+    {
+      "name": "MORSE",
+      "description": "Ranks putative mitochondrial receiver cells using single-cell mtDNA variant profiles derived from scRNA-seq data. Publication date not listed.",
+      "link": "https://github.com/QSong-github/MORSE",
+      "publicationStatus": "date_not_listed"
+    },
+    {
+      "name": "MitoBayes",
+      "description": "Hierarchical Bayesian modeling of single-cell mtDNA variants and gene expression to quantify clone-specific selection pressures. Publication date not listed.",
+      "link": "https://github.com/QSong-github/MitoBayes",
+      "publicationStatus": "date_not_listed"
     }
   ],
   "news": [
+    {
+      "date": "2026",
+      "description": "Our manuscript “CellPert: Graph-based variational learning with biological priors for cross-dataset perturbation prediction” is accepted by Patterns!"
+    },
+    {
+      "date": "2026",
+      "description": "Our manuscript “RESIST: an integrative resource for systematic characterization of cancer drug resistance mechanisms” is accepted by Database!"
+    },
+    {
+      "date": "Sep 2026",
+      "description": "Our manuscript “Distinct Intercellular Communication Architectures Distinguish Protective and Pathogenic Th17 Responses in Infection and Autoimmune Colitis” is published in Cell Insight!"
+    },
     {
       "date": "Aug 2026",
       "description": "Dr. Qianqian Song joined Purdue University as an Associate Professor with tenure in the School of Applied and Creative Computing and serves as Director of the Purdue Polytechnic Digital Health Innovation Center (PDHIC)."
