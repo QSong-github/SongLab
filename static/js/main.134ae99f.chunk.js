@@ -1236,7 +1236,7 @@
               ((n = t.call(this, e)).toggleShowAll = function () {
                 n.setState({ showAll: !n.state.showAll });
               }),
-              (n.state = { showAll: !0 }),
+              (n.state = { showAll: !1 }),
               n
             );
           }
@@ -1359,6 +1359,22 @@
                             className: "nine columns main-col",
                             children: [
                               Object(x.jsx)("div", { children: e }),
+                              tools.length > 5 && Object(x.jsx)("button", {
+                                type: "button",
+                                onClick: this.toggleShowAll,
+                                "aria-expanded": this.state.showAll,
+                                style: {
+                                  padding: "8px 20px",
+                                  marginTop: "8px",
+                                  borderRadius: "20px",
+                                  backgroundColor: "#0762f9",
+                                  color: "white",
+                                  border: "none",
+                                  cursor: "pointer",
+                                  fontSize: "14px"
+                                },
+                                children: this.state.showAll ? "View Less" : "View More"
+                              }),
                               Object(x.jsx)("br", {}),
                               Object(x.jsx)("br", {}),
                               Object(x.jsx)("br", {}),
