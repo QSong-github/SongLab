@@ -750,6 +750,18 @@
   ],
   "news": [
     {
+      "date": "Nov 2026",
+      "description": "Our manuscript “DrugClaw and DrugAudit: A Primary-Source-Grounded Agent and Authority-Aware Benchmark for Drug-Information Question Answering” has been accepted to Findings of the Association for Computational Linguistics: EMNLP 2026!"
+    },
+    {
+      "date": "Nov 2026",
+      "description": "Our manuscript “UniD3: LLM-driven Drug-Disease Dataset Construction via KG-RAG” has been accepted to Findings of the Association for Computational Linguistics: EMNLP 2026!"
+    },
+    {
+      "date": "Nov 2026",
+      "description": "Our manuscript “SpaGene: A Deep Adversarial Framework for Spatial Gene Imputation” has been accepted by Computational and Structural Biotechnology Journal!"
+    },
+    {
       "date": "Oct 2026",
       "description": "Our manuscript “CellPert: Graph-based variational learning with biological priors for cross-dataset perturbation prediction” is accepted by Patterns!"
     },
