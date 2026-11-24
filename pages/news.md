@@ -8,6 +8,12 @@ layout: page
 
 * **[2026]** Our manuscript “RESIST: an integrative resource for systematic characterization of cancer drug resistance mechanisms” is accepted by _Database_! [Web server](https://resist.website/)
 
+* **[2026]** Our manuscript “DrugClaw and DrugAudit: A Primary-Source-Grounded Agent and Authority-Aware Benchmark for Drug-Information Question Answering” has been accepted to _Findings of the Association for Computational Linguistics: EMNLP 2026_!
+
+* **[2026]** Our manuscript “UniD3: LLM-driven Drug-Disease Dataset Construction via KG-RAG” has been accepted to _Findings of the Association for Computational Linguistics: EMNLP 2026_!
+
+* **[2026]** Our manuscript “SpaGene: A Deep Adversarial Framework for Spatial Gene Imputation” has been accepted by _Computational and Structural Biotechnology Journal_!
+
 * **[Sep 2026]** Our manuscript “Distinct Intercellular Communication Architectures Distinguish Protective and Pathogenic Th17 Responses in Infection and Autoimmune Colitis” is published in _Cell Insight_! [Paper](https://doi.org/10.1016/j.cellin.2026.100366)
 
 * **[Aug 2026]** Dr. Qianqian Song joined Purdue University as an Associate Professor with tenure in the School of Applied and Creative Computing, Purdue Polytechnic.
